@@ -24,15 +24,31 @@ Vercel Hobby is intended for personal, non-commercial use. Choose an eligible pl
 
 ## Optional AI generation
 
-AI generation is disabled until all three server environment variables are configured in Vercel:
+The generator calls **OpenAI or Google Gemini directly**. Vercel AI Gateway is not required. You can enable either provider, or both to let people choose in the studio.
 
-- `AI_GATEWAY_API_KEY`: the administrator’s AI Gateway key, entered directly in Vercel.
-- `ICON_GENERATOR_MODEL`: a currently available `provider/model` ID from the account’s AI Gateway model list.
-- `ICON_STUDIO_ACCESS_CODE`: a randomly generated access code of at least 16 characters, shared only with people permitted to use paid generation.
+In Vercel → this project → Settings → Environment Variables, configure:
+
+| Variable | Purpose |
+| --- | --- |
+| `OPENAI_API_KEY` | Enable direct OpenAI generation. Enter a key from https://platform.openai.com/api-keys directly in Vercel. |
+| `GEMINI_API_KEY` | Enable direct Gemini generation. Enter a key from https://aistudio.google.com/apikey directly in Vercel. `GOOGLE_GENERATIVE_AI_API_KEY` is also accepted. |
+| `ICON_STUDIO_ACCESS_CODE` | Required private team password of at least 16 characters. Choose a random password; this is separate from Vercel email verification. |
+
+Only **one provider key and the studio password** are required. If both keys are configured, both choices become available. The public status endpoint exposes readiness and model names, never keys or the password. Configure keys/password as server-side Secrets for Production and then redeploy. For a local website, put the same values in a gitignored `.env.local`, then restart the development server.
+
+Optional settings:
+
+- `OPENAI_ICON_MODEL`: defaults to `gpt-6-sol` through the OpenAI Responses API.
+- `GEMINI_ICON_MODEL`: defaults to `gemini-3.8-flash` through the Google API.
+- `ICON_AI_PROVIDER`: preferred initial provider, `openai` or `gemini`. If unavailable, the initial choice uses whichever provider is configured. A failed generation is never retried against the other provider.
+
+The defaults were checked against the official model documentation on 2 November 2026. Model access depends on your provider account and may change; use provider-native model IDs without a `provider/` prefix when overriding. The old `AI_GATEWAY_API_KEY` and `ICON_GENERATOR_MODEL` settings are no longer used by the app.
+
+Official references: [OpenAI structured outputs](https://developers.openai.com/api/docs/guides/structured-outputs), [OpenAI model](https://developers.openai.com/api/docs/models/gpt-6-sol), [Gemini structured outputs](https://ai.google.dev/gemini-api/docs/structured-output), [Gemini model](https://ai.google.dev/gemini-api/docs/models/gemini-3.8-flash).
 
 Redeploy after configuring variables. Never put API credentials in `NEXT_PUBLIC_` variables or commit them. The browser sends the studio access code only when a person explicitly requests a generation; it is not stored in localStorage. The endpoint authenticates before calling a model, validates prompt length, limits output and time, and builds SVG only from a strict geometry schema. It accepts no scripts, arbitrary attributes, external image URLs or raw model-supplied SVG. Configure a provider spending limit and a Vercel WAF rate limit before broader rollout; the shared access code is suitable for a small trusted team, not a replacement for per-user authentication.
 
-Every AI result or composition is a draft. It can be downloaded but is not automatically published to Figma, GitHub or the shared catalogue. Model quality and semantic correctness still need human review.
+Every AI result or composition is a draft. It can be downloaded but is not automatically published to Figma, GitHub or the shared catalogue. Model quality and semantic correctness still need human review. Codex or Antigravity can be used separately to review SVGs and maintain the library; neither desktop app is used as the website’s runtime model. Provider calls have a 45-second timeout, a 4096-token output cap and no automatic retries. Provider billing, model-access, quota and timeout failures have actionable messages without exposing raw upstream responses.
 
 ## Source and coverage
 
