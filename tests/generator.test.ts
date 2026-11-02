@@ -1,0 +1,6 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {specToSvg,composeSvg} from '../lib/generator.ts';
+test('generated SVG uses fixed Zio geometry and styling',()=>{const svg=specToSvg({label:'Vehicle warning',description:'A draft car warning',shapes:[{type:'path',d:'M3 10h18v8H3Z'},{type:'circle',cx:7,cy:19,r:2}]});assert.match(svg,/viewBox="0 0 24 24"/);assert.match(svg,/stroke-width="1.8"/);assert.match(svg,/stroke-linejoin="round"/);});
+test('rejects active SVG content and malicious path attributes',()=>{for(const shapes of [[{type:'script',d:'alert(1)'}],[{type:'path',d:'M1 1" onload="alert(1)'}],[{type:'image',href:'https://example.com'}],[{type:'circle',cx:12,cy:12,r:50}]])assert.throws(()=>specToSvg({label:'Unsafe',description:'Reject this data',shapes}));});
+test('composition preserves source geometry and supports a constrained badge',()=>{const source='<svg viewBox="0 0 24 24"><path d="M2 12h20" stroke="#18272f"/></svg>';const svg=composeSvg(source,'lock','#6654d9');assert.match(svg,/M2 12h20/);assert.match(svg,/#6654d9/);assert.match(svg,/<rect/);assert.throws(()=>composeSvg(source,'script'));assert.throws(()=>composeSvg(source,'lock','url(https://example.com)'));});

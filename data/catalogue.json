@@ -1,0 +1,6753 @@
+{
+  "meta": {
+    "exportedAt": "2026-11-02",
+    "fileKey": "AJqT5iFTCBAsqPRtj0zmL2",
+    "sectionId": "3798:23362",
+    "sourceEntries": 529,
+    "publishedEntries": 493,
+    "uniqueIcons": 217,
+    "excludedRedCards": 36,
+    "sourceArtwork": 2,
+    "categories": [
+      "Interface",
+      "Menu",
+      "Table headers",
+      "Shared",
+      "Extra"
+    ]
+  },
+  "icons": [
+    {
+      "id": "administrator-3808-12713",
+      "name": "Administrator",
+      "slug": "administrator",
+      "asset": "/icons/administrator-3808-12713.svg",
+      "masterId": "3808:12713",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7701",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-100",
+          "name": "Administrator",
+          "category": "Shared",
+          "nodeId": "3774:7701"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b29a3a2b081c6cf7eb9426acd65f0062a1dd514c22c91abdaf4e22f24f8b1b60"
+    },
+    {
+      "id": "cart-alert-3808-12667",
+      "name": "Cart alert",
+      "slug": "cart-alert",
+      "asset": "/icons/cart-alert-3808-12667.svg",
+      "masterId": "3808:12667",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7242",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-025",
+          "name": "Cart alert",
+          "category": "Shared",
+          "nodeId": "3774:7242"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "48af120de7ba35d42852106375a4bf2517790896c4c8459c4b4b214caf5102b6"
+    },
+    {
+      "id": "chart-settings-3808-12649",
+      "name": "Chart settings",
+      "slug": "chart-settings",
+      "asset": "/icons/chart-settings-3808-12649.svg",
+      "masterId": "3808:12649",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7107",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-003",
+          "name": "Chart settings",
+          "category": "Shared",
+          "nodeId": "3774:7107"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "4cd1ebcaf8dbf950b8a6389eac4698f9da4b4d3bf246f8ec7199f0e1f6b86622"
+    },
+    {
+      "id": "cloud-download-3808-12726",
+      "name": "Cloud download",
+      "slug": "cloud-download",
+      "asset": "/icons/cloud-download-3808-12726.svg",
+      "masterId": "3808:12726",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7738",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-106",
+          "name": "Cloud download",
+          "category": "Shared",
+          "nodeId": "3774:7738"
+        },
+        {
+          "code": "SHELL-107",
+          "name": "Cloud download alternate",
+          "category": "Shared",
+          "nodeId": "3774:7744"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "c40196b056b964efecf9a4397a79a4aeff9a4702c3f6eed725d8276a171f7801"
+    },
+    {
+      "id": "crash-detection-3808-12793",
+      "name": "Crash detection",
+      "slug": "crash-detection",
+      "asset": "/icons/crash-detection-3808-12793.svg",
+      "masterId": "3808:12793",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9275",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-047",
+          "name": "Crash detection",
+          "category": "Extra",
+          "nodeId": "3774:9275"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "829aeb7b7843f4d602b9563c3dea3181fa6310da5eccb0c942b80a67d2f3ceb4"
+    },
+    {
+      "id": "default-maintenance-3808-12739",
+      "name": "Default maintenance",
+      "slug": "default-maintenance",
+      "asset": "/icons/default-maintenance-3808-12739.svg",
+      "masterId": "3808:12739",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8491",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-229",
+          "name": "Default maintenance",
+          "category": "Shared",
+          "nodeId": "3774:8491"
+        },
+        {
+          "code": "SHELL-230",
+          "name": "Maintenance",
+          "category": "Shared",
+          "nodeId": "3774:8497"
+        },
+        {
+          "code": "SHELL-241",
+          "name": "Maintenance alternate",
+          "category": "Shared",
+          "nodeId": "3774:8565"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "3c67d1279766b00ca3f077cbf52989d349cd399852fcfe90e74c0267981bcd4c"
+    },
+    {
+      "id": "device-model-3808-12695",
+      "name": "Device model",
+      "slug": "device-model",
+      "asset": "/icons/device-model-3808-12695.svg",
+      "masterId": "3808:12695",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7395",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-050",
+          "name": "Device model",
+          "category": "Shared",
+          "nodeId": "3774:7395"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8d0716037a0f1b1b18de8334853ca24d895e552445ef21a69a7cf60e90632300"
+    },
+    {
+      "id": "device-recharge-3808-12735",
+      "name": "Device recharge",
+      "slug": "device-recharge",
+      "asset": "/icons/device-recharge-3808-12735.svg",
+      "masterId": "3808:12735",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8246",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-189",
+          "name": "Device recharge",
+          "category": "Shared",
+          "nodeId": "3774:8246"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a17f2875e3e1415c4ef4c7cf5666a86e1bc9dc7281be67d0a9854dfbe2731bbe"
+    },
+    {
+      "id": "distance-travelled-3808-12625",
+      "name": "Distance travelled",
+      "slug": "distance-travelled",
+      "asset": "/icons/distance-travelled-3808-12625.svg",
+      "masterId": "3808:12625",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6880",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-002",
+          "name": "Distance travelled",
+          "category": "Table headers",
+          "nodeId": "3774:6880"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b357654d55c36b7da3d4d158111d2acef550f13916dd6e4a27d3b6a7cbba0e0a"
+    },
+    {
+      "id": "driver-notification-3808-12677",
+      "name": "Driver notification",
+      "slug": "driver-notification",
+      "asset": "/icons/driver-notification-3808-12677.svg",
+      "masterId": "3808:12677",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7278",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-031",
+          "name": "Driver notification",
+          "category": "Shared",
+          "nodeId": "3774:7278"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7df30646e1ad64d0f4961e55897478d8ebb40af2705f4ae8d452e25c4514090b"
+    },
+    {
+      "id": "email-3808-12709",
+      "name": "Email",
+      "slug": "email",
+      "asset": "/icons/email-3808-12709.svg",
+      "masterId": "3808:12709",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7634",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-089",
+          "name": "Email",
+          "category": "Shared",
+          "nodeId": "3774:7634"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "523106a0f5bbf411ada375afb015a37e83627da9e8172753d20675dbadf339a3"
+    },
+    {
+      "id": "fall-detection-3808-12796",
+      "name": "Fall detection",
+      "slug": "fall-detection",
+      "asset": "/icons/fall-detection-3808-12796.svg",
+      "masterId": "3808:12796",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9288",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-049",
+          "name": "Fall detection",
+          "category": "Extra",
+          "nodeId": "3774:9288"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "56a0c9421c3cccc2073928a44f6246bba99a3b21729dffeb8d3ef2e79ab924eb"
+    },
+    {
+      "id": "idle-duration-3808-12635",
+      "name": "Idle duration",
+      "slug": "idle-duration",
+      "asset": "/icons/idle-duration-3808-12635.svg",
+      "masterId": "3808:12635",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6929",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-010",
+          "name": "Idle duration",
+          "category": "Table headers",
+          "nodeId": "3774:6929"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b4f54c7f7e726a86218db68bbd9b84abc99136724735ddc13bea923a35e0a26c"
+    },
+    {
+      "id": "immobiliser-3808-12582",
+      "name": "Immobiliser",
+      "slug": "immobiliser",
+      "asset": "/icons/immobiliser-3808-12582.svg",
+      "masterId": "3808:12582",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6339",
+      "categories": [
+        "Interface",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-031",
+          "name": "Immobiliser",
+          "category": "Interface",
+          "nodeId": "3774:6339"
+        },
+        {
+          "code": "EXTRA-010",
+          "name": "Immobiliser",
+          "category": "Extra",
+          "nodeId": "3774:9049"
+        },
+        {
+          "code": "EXTRA-050",
+          "name": "Immobilise mode",
+          "category": "Extra",
+          "nodeId": "3774:9294"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "602aa051fd88cbabee0075c4add983d3166530d817c6ad585cdf8f330e5fd757"
+    },
+    {
+      "id": "inactive-duration-3808-12640",
+      "name": "Inactive duration",
+      "slug": "inactive-duration",
+      "asset": "/icons/inactive-duration-3808-12640.svg",
+      "masterId": "3808:12640",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7057",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-031",
+          "name": "Inactive duration",
+          "category": "Table headers",
+          "nodeId": "3774:7057"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "42681e292495e83f408a27e582230c887b98c128d53f8c514b572e323e5ba783"
+    },
+    {
+      "id": "inner-background-3808-12699",
+      "name": "Inner background",
+      "slug": "inner-background",
+      "asset": "/icons/inner-background-3808-12699.svg",
+      "masterId": "3808:12699",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7536",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-073",
+          "name": "Inner background",
+          "category": "Shared",
+          "nodeId": "3774:7536"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ef2ebd6ba35bd3a996c0ea88f16e1fb0d9a0a4dfcce47262520181eafbf9b6ec"
+    },
+    {
+      "id": "location-detail-3808-12690",
+      "name": "Location detail",
+      "slug": "location-detail",
+      "asset": "/icons/location-detail-3808-12690.svg",
+      "masterId": "3808:12690",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7358",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-044",
+          "name": "Location detail",
+          "category": "Shared",
+          "nodeId": "3774:7358"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "f7975411cd73504657064e5a5edd5776d08d2e6128ce400ec928537db0306aa1"
+    },
+    {
+      "id": "login-background-3808-12704",
+      "name": "Login background",
+      "slug": "login-background",
+      "asset": "/icons/login-background-3808-12704.svg",
+      "masterId": "3808:12704",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7566",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-078",
+          "name": "Login background",
+          "category": "Shared",
+          "nodeId": "3774:7566"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ef9a9301940f2881e770c45a36b4df9c94caa9e9d4997b8d65859e09e4efbb55"
+    },
+    {
+      "id": "play-notification-video-3808-12682",
+      "name": "Play notification video",
+      "slug": "play-notification-video",
+      "asset": "/icons/play-notification-video-3808-12682.svg",
+      "masterId": "3808:12682",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7291",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-033",
+          "name": "Play notification video",
+          "category": "Shared",
+          "nodeId": "3774:7291"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "3463e2d5661ef5a7703162e921c25834c383addc258335e41b1427bffe1f434d"
+    },
+    {
+      "id": "police-3808-12789",
+      "name": "Police",
+      "slug": "police",
+      "asset": "/icons/police-3808-12789.svg",
+      "masterId": "3808:12789",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9183",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-032",
+          "name": "Police",
+          "category": "Extra",
+          "nodeId": "3774:9183"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ed25d9517660ed0876b279462daba9f31973bf1f4bff12cfd701ee56e7ffa2fb"
+    },
+    {
+      "id": "post-office-3808-12784",
+      "name": "Post office",
+      "slug": "post-office",
+      "asset": "/icons/post-office-3808-12784.svg",
+      "masterId": "3808:12784",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9177",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-031",
+          "name": "Post office",
+          "category": "Extra",
+          "nodeId": "3774:9177"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "cb21d76a5cf0a38c886a3c0ce3ddb82953947823f9d642fe3c5ee542c146ae65"
+    },
+    {
+      "id": "reassign-students-3808-12742",
+      "name": "Reassign students",
+      "slug": "reassign-students",
+      "asset": "/icons/reassign-students-3808-12742.svg",
+      "masterId": "3808:12742",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6241",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-015",
+          "name": "Reassign students",
+          "category": "Interface",
+          "nodeId": "3774:6241"
+        },
+        {
+          "code": "SHELL-237",
+          "name": "Reassign students",
+          "category": "Shared",
+          "nodeId": "3774:8540"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "59077e643ef393da6c655c11043d70e894a24c5dce7eabc4b7c230c31f16427c"
+    },
+    {
+      "id": "recharge-alert-3808-12731",
+      "name": "Recharge alert",
+      "slug": "recharge-alert",
+      "asset": "/icons/recharge-alert-3808-12731.svg",
+      "masterId": "3808:12731",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7989",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-147",
+          "name": "Recharge alert",
+          "category": "Shared",
+          "nodeId": "3774:7989"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "221384264d024d547a0bf5023734fd57ae757e3f6861bb9edc3fd57225ae13f8"
+    },
+    {
+      "id": "reports-alternate-3808-12602",
+      "name": "Reports / alternate",
+      "slug": "reports-alternate",
+      "asset": "/icons/reports-alternate-3808-12602.svg",
+      "masterId": "3808:12602",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6781",
+      "categories": [
+        "Menu"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-020",
+          "name": "Reports / alternate",
+          "category": "Menu",
+          "nodeId": "3774:6781"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d0794cc5d752313f6e20012dfee6b9c19bc3c871239d3ee277cb4534b6a410d1"
+    },
+    {
+      "id": "reports-selected-3808-12609",
+      "name": "Reports / selected",
+      "slug": "reports-selected",
+      "asset": "/icons/reports-selected-3808-12609.svg",
+      "masterId": "3808:12609",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6793",
+      "categories": [
+        "Menu"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-022",
+          "name": "Reports / selected",
+          "category": "Menu",
+          "nodeId": "3774:6793"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7265f5d727cd90826e46f340a0159d4be5268297bf62beb022a1bc097f438569"
+    },
+    {
+      "id": "restaurant-3808-12778",
+      "name": "Restaurant",
+      "slug": "restaurant",
+      "asset": "/icons/restaurant-3808-12778.svg",
+      "masterId": "3808:12778",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9147",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-026",
+          "name": "Restaurant",
+          "category": "Extra",
+          "nodeId": "3774:9147"
+        },
+        {
+          "code": "EXTRA-027",
+          "name": "Dining",
+          "category": "Extra",
+          "nodeId": "3774:9153"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "0b7750f8e5af71da8cfc0d64095226f81b9b6a1d7fc228e849c5f1afdae2cb84"
+    },
+    {
+      "id": "search-alternate-3808-12752",
+      "name": "Search alternate",
+      "slug": "search-alternate",
+      "asset": "/icons/search-alternate-3808-12752.svg",
+      "masterId": "3808:12752",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8736",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-269",
+          "name": "Search alternate",
+          "category": "Shared",
+          "nodeId": "3774:8736"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "758ee617369db10dbf0befbe87ed4e8920516b331e62464ac70b4d9a84a7267b"
+    },
+    {
+      "id": "search-people-3808-12745",
+      "name": "Search people",
+      "slug": "search-people",
+      "asset": "/icons/search-people-3808-12745.svg",
+      "masterId": "3808:12745",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8730",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-268",
+          "name": "Search people",
+          "category": "Shared",
+          "nodeId": "3774:8730"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "845a4ec35b539e4be85a4e7ce3f4985e545f3de38449d14a5a26ae1f03945cab"
+    },
+    {
+      "id": "search-tracking-3808-12757",
+      "name": "Search tracking",
+      "slug": "search-tracking",
+      "asset": "/icons/search-tracking-3808-12757.svg",
+      "masterId": "3808:12757",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8877",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-292",
+          "name": "Search tracking",
+          "category": "Shared",
+          "nodeId": "3774:8877"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9bbaaa908db320bcfe6832570d9271186e51421e4db088b4eab908cf6511cec9"
+    },
+    {
+      "id": "seat-belt-3808-12645",
+      "name": "Seat belt",
+      "slug": "seat-belt",
+      "asset": "/icons/seat-belt-3808-12645.svg",
+      "masterId": "3808:12645",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7039",
+      "categories": [
+        "Table headers",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-028",
+          "name": "Seat belt",
+          "category": "Table headers",
+          "nodeId": "3774:7039"
+        },
+        {
+          "code": "EXTRA-051",
+          "name": "Seat belt",
+          "category": "Extra",
+          "nodeId": "3774:9300"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d4806357b345ac7c276454276165a64214450af0ed7613799a13fa459da4b364"
+    },
+    {
+      "id": "settings-alternate-3808-12614",
+      "name": "Settings alternate",
+      "slug": "settings-alternate",
+      "asset": "/icons/settings-alternate-3808-12614.svg",
+      "masterId": "3808:12614",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6805",
+      "categories": [
+        "Menu"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-024",
+          "name": "Settings alternate",
+          "category": "Menu",
+          "nodeId": "3774:6805"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "1c7505c93c08eeeef264aeb973382ecc94ef6933f7981bc9d2deba4956ac8fa7"
+    },
+    {
+      "id": "settings-selected-3808-12596",
+      "name": "Settings selected",
+      "slug": "settings-selected",
+      "asset": "/icons/settings-selected-3808-12596.svg",
+      "masterId": "3808:12596",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6812",
+      "categories": [
+        "Menu"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-025",
+          "name": "Settings selected",
+          "category": "Menu",
+          "nodeId": "3774:6812"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "fbb2366acf22a764b4b6141ab86e01b1dd85a95a344ada8ad19190ebec5e6801"
+    },
+    {
+      "id": "sos-location-3808-12687",
+      "name": "SOS location",
+      "slug": "sos-location",
+      "asset": "/icons/sos-location-3808-12687.svg",
+      "masterId": "3808:12687",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7352",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-043",
+          "name": "SOS location",
+          "category": "Shared",
+          "nodeId": "3774:7352"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "4741b43dc27580fec4382c3cb0eb509dca77c85a58d994781ffdbcc2d919ebfc"
+    },
+    {
+      "id": "sports-car-3808-12591",
+      "name": "Sports car",
+      "slug": "sports-car",
+      "asset": "/icons/sports-car-3808-12591.svg",
+      "masterId": "3808:12591",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6517",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-060",
+          "name": "Sports car",
+          "category": "Interface",
+          "nodeId": "3774:6517"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "4b060cf1c594db6480a67869ee079bfdacb0f685182ef9b3ff89734e0dfc59df"
+    },
+    {
+      "id": "standard-procedures-3808-12654",
+      "name": "Standard procedures",
+      "slug": "standard-procedures",
+      "asset": "/icons/standard-procedures-3808-12654.svg",
+      "masterId": "3808:12654",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7186",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-016",
+          "name": "Standard procedures",
+          "category": "Shared",
+          "nodeId": "3774:7186"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "0d890b61fc00e39858c21013e2883fcf3734c33576c7c74e0861fd5c9eef9761"
+    },
+    {
+      "id": "stopped-duration-3808-12630",
+      "name": "Stopped duration",
+      "slug": "stopped-duration",
+      "asset": "/icons/stopped-duration-3808-12630.svg",
+      "masterId": "3808:12630",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6892",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-004",
+          "name": "Stopped duration",
+          "category": "Table headers",
+          "nodeId": "3774:6892"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9cc367e26d27554aee803ce74d5acb069b4b0b2bae15f7a86a9e24890b97790a"
+    },
+    {
+      "id": "tamper-alert-3808-12800",
+      "name": "Tamper alert",
+      "slug": "tamper-alert",
+      "asset": "/icons/tamper-alert-3808-12800.svg",
+      "masterId": "3808:12800",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9324",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-055",
+          "name": "Tamper alert",
+          "category": "Extra",
+          "nodeId": "3774:9324"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "263ad21797af94458ef6f7fa40e73d5bd58d9aeab51120f530e9468ebd16efc4"
+    },
+    {
+      "id": "theatre-3808-12768",
+      "name": "Theatre",
+      "slug": "theatre",
+      "asset": "/icons/theatre-3808-12768.svg",
+      "masterId": "3808:12768",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9141",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-025",
+          "name": "Theatre",
+          "category": "Extra",
+          "nodeId": "3774:9141"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "e70132683298cb5e0583396fbbf37b2c3d689c7d20374e906bf3de30971f93c8"
+    },
+    {
+      "id": "vehicle-boot-3808-12809",
+      "name": "Vehicle boot",
+      "slug": "vehicle-boot",
+      "asset": "/icons/vehicle-boot-3808-12809.svg",
+      "masterId": "3808:12809",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9343",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-058",
+          "name": "Vehicle boot",
+          "category": "Extra",
+          "nodeId": "3774:9343"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9510ce8c27b0509f2c74c35bfb218ff03d6fe02141d26a256df88349ca4eb539"
+    },
+    {
+      "id": "vehicle-doors-3808-12587",
+      "name": "Vehicle doors",
+      "slug": "vehicle-doors",
+      "asset": "/icons/vehicle-doors-3808-12587.svg",
+      "masterId": "3808:12587",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6352",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-033",
+          "name": "Vehicle doors",
+          "category": "Interface",
+          "nodeId": "3774:6352"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "89b2025f80cf9ece9588d0d3cce0c871c185d2bbb188064e223647817ec21f81"
+    },
+    {
+      "id": "vehicle-notification-3808-12673",
+      "name": "Vehicle notification",
+      "slug": "vehicle-notification",
+      "asset": "/icons/vehicle-notification-3808-12673.svg",
+      "masterId": "3808:12673",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7284",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-032",
+          "name": "Vehicle notification",
+          "category": "Shared",
+          "nodeId": "3774:7284"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8da7fa80b1201960e5057c597233106e31b6c498bb671c1f0ec6728c6d1addc0"
+    },
+    {
+      "id": "vehicle-search-3808-12763",
+      "name": "Vehicle search",
+      "slug": "vehicle-search",
+      "asset": "/icons/vehicle-search-3808-12763.svg",
+      "masterId": "3808:12763",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8901",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-296",
+          "name": "Vehicle search",
+          "category": "Shared",
+          "nodeId": "3774:8901"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "abd1a20d205c99929c30719d478675639bfbf1713cfaf7bac3174f3e93127f93"
+    },
+    {
+      "id": "view-screen-3808-12662",
+      "name": "View screen",
+      "slug": "view-screen",
+      "asset": "/icons/view-screen-3808-12662.svg",
+      "masterId": "3808:12662",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7211",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-020",
+          "name": "View screen",
+          "category": "Shared",
+          "nodeId": "3774:7211"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ff0ad1fa2949f0ab7447dff64ced54f958da6eeb805378489dda3283ccfde464"
+    },
+    {
+      "id": "weighbridge-3808-12804",
+      "name": "Weighbridge",
+      "slug": "weighbridge",
+      "asset": "/icons/weighbridge-3808-12804.svg",
+      "masterId": "3808:12804",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9337",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-057",
+          "name": "Weighbridge",
+          "category": "Extra",
+          "nodeId": "3774:9337"
+        }
+      ],
+      "updated": true,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "64d79c9d459def22301225c6a025b72a07366f984957a8c3dc831d34673303f2"
+    },
+    {
+      "id": "ac-off-3767-7354",
+      "name": "AC off",
+      "slug": "ac-off",
+      "asset": "/icons/ac-off-3767-7354.svg",
+      "masterId": "3767:7354",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8295",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-197",
+          "name": "AC off",
+          "category": "Shared",
+          "nodeId": "3774:8295"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ba0790d4b17a46ac04806152077fb43fb250cb6c193d473460ae05941db11b04"
+    },
+    {
+      "id": "accident-3710-2840",
+      "name": "Accident",
+      "slug": "accident",
+      "asset": "/icons/accident-3710-2840.svg",
+      "masterId": "3710:2840",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6419",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-044",
+          "name": "Accident",
+          "category": "Interface",
+          "nodeId": "3774:6419"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "68390892355f9de5976e86766532d079c646c2219c1d1ef3e5cfd5cf5eece7ed"
+    },
+    {
+      "id": "add-axle-3767-9223",
+      "name": "Add axle",
+      "slug": "add-axle",
+      "asset": "/icons/add-axle-3767-9223.svg",
+      "masterId": "3767:9223",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9257",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-044",
+          "name": "Add axle",
+          "category": "Extra",
+          "nodeId": "3774:9257"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "decfa6580f41b3be037ac291e25a72800d4dcbbf1a9d1ad43b698e576e86dec6"
+    },
+    {
+      "id": "add-new-3710-1933",
+      "name": "Add new",
+      "slug": "add-new",
+      "asset": "/icons/add-new-3710-1933.svg",
+      "masterId": "3710:1933",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6198",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-008",
+          "name": "Add new",
+          "category": "Interface",
+          "nodeId": "3774:6198"
+        },
+        {
+          "code": "SHELL-021",
+          "name": "Add",
+          "category": "Shared",
+          "nodeId": "3774:7217"
+        },
+        {
+          "code": "SHELL-223",
+          "name": "Expand",
+          "category": "Shared",
+          "nodeId": "3774:8454"
+        },
+        {
+          "code": "SHELL-225",
+          "name": "Add",
+          "category": "Shared",
+          "nodeId": "3774:8467"
+        },
+        {
+          "code": "SHELL-227",
+          "name": "Add alternate",
+          "category": "Shared",
+          "nodeId": "3774:8479"
+        },
+        {
+          "code": "SHELL-250",
+          "name": "Add new",
+          "category": "Shared",
+          "nodeId": "3774:8620"
+        },
+        {
+          "code": "SHELL-261",
+          "name": "Plus alternate",
+          "category": "Shared",
+          "nodeId": "3774:8687"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a7b1d250f9aca5ff126a0d0297aaeb55df5abee6c514458058b2064a9476cdfc"
+    },
+    {
+      "id": "addresses-3765-5697",
+      "name": "Addresses",
+      "slug": "addresses",
+      "asset": "/icons/addresses-3765-5697.svg",
+      "masterId": "3765:5697",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6443",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-048",
+          "name": "Addresses",
+          "category": "Interface",
+          "nodeId": "3774:6443"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "fc43703d2cbe5c16bcd6edf4f5986812f3e2f5a6107d55a16bcfa544688126b9"
+    },
+    {
+      "id": "ai-analysis-3710-2178",
+      "name": "AI analysis",
+      "slug": "ai-analysis",
+      "asset": "/icons/ai-analysis-3710-2178.svg",
+      "masterId": "3710:2178",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7101",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-002",
+          "name": "AI analysis",
+          "category": "Shared",
+          "nodeId": "3774:7101"
+        },
+        {
+          "code": "SHELL-247",
+          "name": "Generate AI analysis",
+          "category": "Shared",
+          "nodeId": "3774:8601"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "06c8daabd4e51f93488f3b518390784e5e444042f782b2358718dde5fe2d175d"
+    },
+    {
+      "id": "ai-parameters-3710-2157",
+      "name": "AI parameters",
+      "slug": "ai-parameters",
+      "asset": "/icons/ai-parameters-3710-2157.svg",
+      "masterId": "3710:2157",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8607",
+      "categories": [
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-248",
+          "name": "AI parameters",
+          "category": "Shared",
+          "nodeId": "3774:8607"
+        },
+        {
+          "code": "EXTRA-060",
+          "name": "Column settings",
+          "category": "Extra",
+          "nodeId": "3774:9355"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "292b389c69780b1006957eb7b93cb0eb4b7f7a172fde4194721561e9649f5fc0"
+    },
+    {
+      "id": "air-conditioning-3710-676",
+      "name": "Air conditioning",
+      "slug": "air-conditioning",
+      "asset": "/icons/air-conditioning-3710-676.svg",
+      "masterId": "3710:676",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6333",
+      "categories": [
+        "Interface",
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-030",
+          "name": "Air conditioning",
+          "category": "Interface",
+          "nodeId": "3774:6333"
+        },
+        {
+          "code": "HEADER-023",
+          "name": "AC status",
+          "category": "Table headers",
+          "nodeId": "3774:7008"
+        },
+        {
+          "code": "SHELL-198",
+          "name": "AC on",
+          "category": "Shared",
+          "nodeId": "3774:8301"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d80ad35d1b6f27d3af1e1c938cc4f70cacf20fc6e804c9c190d645f65c2f2c29"
+    },
+    {
+      "id": "airport-3767-9199",
+      "name": "Airport",
+      "slug": "airport",
+      "asset": "/icons/airport-3767-9199.svg",
+      "masterId": "3767:9199",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9245",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-042",
+          "name": "Airport",
+          "category": "Extra",
+          "nodeId": "3774:9245"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d800fbe2f9f0f9432c60b5d2f04cfa533c8dab6ee7d85fd364fe85511673f21a"
+    },
+    {
+      "id": "alert-3766-6251",
+      "name": "Alert",
+      "slug": "alert",
+      "asset": "/icons/alert-3766-6251.svg",
+      "masterId": "3766:6251",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6947",
+      "categories": [
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-013",
+          "name": "Alert",
+          "category": "Table headers",
+          "nodeId": "3774:6947"
+        },
+        {
+          "code": "SHELL-029",
+          "name": "Indoor alert",
+          "category": "Shared",
+          "nodeId": "3774:7266"
+        },
+        {
+          "code": "SHELL-030",
+          "name": "Notification alert",
+          "category": "Shared",
+          "nodeId": "3774:7272"
+        },
+        {
+          "code": "SHELL-046",
+          "name": "Priority",
+          "category": "Shared",
+          "nodeId": "3774:7370"
+        },
+        {
+          "code": "SHELL-086",
+          "name": "AI warning",
+          "category": "Shared",
+          "nodeId": "3774:7615"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "93751e710c5306ff336eefe42e54476b52d47cc58c098e5bdf4f6238b2403c4a"
+    },
+    {
+      "id": "android-download-3767-6194",
+      "name": "Android download",
+      "slug": "android-download",
+      "asset": "/icons/android-download-3767-6194.svg",
+      "masterId": "3767:6194",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7707",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-101",
+          "name": "Android download",
+          "category": "Shared",
+          "nodeId": "3774:7707"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b40446352ce4a2a2c6bb11a24517e8dc1a176fd51ee437e2a687d8836e621e3a"
+    },
+    {
+      "id": "app-launcher-3766-5855",
+      "name": "App launcher",
+      "slug": "app-launcher",
+      "asset": "/icons/app-launcher-3766-5855.svg",
+      "masterId": "3766:5855",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6744",
+      "categories": [
+        "Menu"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-014",
+          "name": "App launcher",
+          "category": "Menu",
+          "nodeId": "3774:6744"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "48a8db1644bf698a34351442bcccf38d5ea23ed08cfcec401211a2c3bad42913"
+    },
+    {
+      "id": "apple-download-3789-9350",
+      "name": "Apple download",
+      "slug": "apple-download",
+      "asset": "/icons/apple-download-3789-9350.svg",
+      "masterId": "3789:9350",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7150",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-010",
+          "name": "Apple download",
+          "category": "Shared",
+          "nodeId": "3774:7150"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "eeb15e95b96d2226eb340c1957763698bec46ff88ccf4dcae4974d7fe6c5debb"
+    },
+    {
+      "id": "apply-3767-7044",
+      "name": "Apply",
+      "slug": "apply",
+      "asset": "/icons/apply-3767-7044.svg",
+      "masterId": "3767:7044",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8742",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-270",
+          "name": "Apply",
+          "category": "Shared",
+          "nodeId": "3774:8742"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "fa4aeb42bf9da5efd05ac04453c718056a53cb5a18400c1119d1d7c90e80d695"
+    },
+    {
+      "id": "atm-3767-9088",
+      "name": "ATM",
+      "slug": "atm",
+      "asset": "/icons/atm-3767-9088.svg",
+      "masterId": "3767:9088",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9196",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-034",
+          "name": "ATM",
+          "category": "Extra",
+          "nodeId": "3774:9196"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8c0f32e878ffbab344999f3f59d80743d3f5c1eee6797bdcee7b50fd9ab0dcd2"
+    },
+    {
+      "id": "back-3710-851",
+      "name": "Back",
+      "slug": "back",
+      "asset": "/icons/back-3710-851.svg",
+      "masterId": "3710:851",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6186",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-006",
+          "name": "Back",
+          "category": "Interface",
+          "nodeId": "3774:6186"
+        },
+        {
+          "code": "SHELL-011",
+          "name": "Back",
+          "category": "Shared",
+          "nodeId": "3774:7156"
+        },
+        {
+          "code": "SHELL-196",
+          "name": "West",
+          "category": "Shared",
+          "nodeId": "3774:8289"
+        },
+        {
+          "code": "SHELL-233",
+          "name": "Back",
+          "category": "Shared",
+          "nodeId": "3774:8516"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "477a8395f4537aa0deed64722e78d28f61dd1460772de0095f066518d76b1199"
+    },
+    {
+      "id": "back-circle-3767-8302",
+      "name": "Back circle",
+      "slug": "back-circle",
+      "asset": "/icons/back-circle-3767-8302.svg",
+      "masterId": "3767:8302",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8828",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-284",
+          "name": "Back circle",
+          "category": "Shared",
+          "nodeId": "3774:8828"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "97b61556a1ea0e6e573a7b997d5a3036c96e87b8079ac4168d5aaa31888d1822"
+    },
+    {
+      "id": "bar-chart-3710-2414",
+      "name": "Bar chart",
+      "slug": "bar-chart",
+      "asset": "/icons/bar-chart-3710-2414.svg",
+      "masterId": "3710:2414",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6235",
+      "categories": [
+        "Interface",
+        "Menu",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-014",
+          "name": "Bar chart",
+          "category": "Interface",
+          "nodeId": "3774:6235"
+        },
+        {
+          "code": "MENU-003",
+          "name": "Charts",
+          "category": "Menu",
+          "nodeId": "3774:6677"
+        },
+        {
+          "code": "MENU-004",
+          "name": "Charts / alternate",
+          "category": "Menu",
+          "nodeId": "3774:6683"
+        },
+        {
+          "code": "MENU-005",
+          "name": "Charts / alternate 2",
+          "category": "Menu",
+          "nodeId": "3774:6689"
+        },
+        {
+          "code": "MENU-006",
+          "name": "Charts / selected",
+          "category": "Menu",
+          "nodeId": "3774:6695"
+        },
+        {
+          "code": "MENU-007",
+          "name": "Charts",
+          "category": "Menu",
+          "nodeId": "3774:6701"
+        },
+        {
+          "code": "SHELL-006",
+          "name": "Analytics",
+          "category": "Shared",
+          "nodeId": "3774:7125"
+        },
+        {
+          "code": "SHELL-232",
+          "name": "Bar chart",
+          "category": "Shared",
+          "nodeId": "3774:8509"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "dbebab367a698eda5253e61d5552393f5a17c9da8a7bf7ddbe14c1b33c4c97df"
+    },
+    {
+      "id": "bottom-page-3766-7349",
+      "name": "Bottom page",
+      "slug": "bottom-page",
+      "asset": "/icons/bottom-page-3766-7349.svg",
+      "masterId": "3766:7349",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7493",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-066",
+          "name": "Bottom page",
+          "category": "Shared",
+          "nodeId": "3774:7493"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9490792af35e6104bd941ff48b874e35806e689721485bdb997e3d8f125fc0e3"
+    },
+    {
+      "id": "breakdown-3710-2601",
+      "name": "Breakdown",
+      "slug": "breakdown",
+      "asset": "/icons/breakdown-3710-2601.svg",
+      "masterId": "3710:2601",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6425",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-045",
+          "name": "Breakdown",
+          "category": "Interface",
+          "nodeId": "3774:6425"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8663ae015444c6667206ce13b4487d0e3a51ab80bde96202bb2275dca35cd9d6"
+    },
+    {
+      "id": "building-3710-317",
+      "name": "Building",
+      "slug": "building",
+      "asset": "/icons/building-3710-317.svg",
+      "masterId": "3710:317",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7229",
+      "categories": [
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-023",
+          "name": "Building",
+          "category": "Shared",
+          "nodeId": "3774:7229"
+        },
+        {
+          "code": "EXTRA-030",
+          "name": "Buildings",
+          "category": "Extra",
+          "nodeId": "3774:9171"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7b58f323c5257506a87af249f05cd32e72c3590f683b5ddab5092565468b50b3"
+    },
+    {
+      "id": "bulk-reminders-3767-8613",
+      "name": "Bulk reminders",
+      "slug": "bulk-reminders",
+      "asset": "/icons/bulk-reminders-3767-8613.svg",
+      "masterId": "3767:8613",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9000",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-002",
+          "name": "Bulk reminders",
+          "category": "Extra",
+          "nodeId": "3774:9000"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "23f65c389458e596e58c29a52921f465381938294967b9c2cd4601289bdcd39d"
+    },
+    {
+      "id": "bus-3766-5432",
+      "name": "Bus",
+      "slug": "bus",
+      "asset": "/icons/bus-3766-5432.svg",
+      "masterId": "3766:5432",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6529",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-062",
+          "name": "Bus",
+          "category": "Interface",
+          "nodeId": "3774:6529"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "49f21b4f7a9672e2ab84c91c3c9cf4428f6ee1236eb18e054ca256a48afc32ec"
+    },
+    {
+      "id": "buzzer-3765-5515",
+      "name": "Buzzer",
+      "slug": "buzzer",
+      "asset": "/icons/buzzer-3765-5515.svg",
+      "masterId": "3765:5515",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9269",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-046",
+          "name": "Buzzer",
+          "category": "Extra",
+          "nodeId": "3774:9269"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "fbe93cd900d82e12534b67c1a8a88dab56095d2fc801c8df6cd9e86e81f6a301"
+    },
+    {
+      "id": "calendar-3710-2430",
+      "name": "Calendar",
+      "slug": "calendar",
+      "asset": "/icons/calendar-3710-2430.svg",
+      "masterId": "3710:2430",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8754",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-272",
+          "name": "Calendar",
+          "category": "Shared",
+          "nodeId": "3774:8754"
+        },
+        {
+          "code": "SHELL-279",
+          "name": "Open calendar",
+          "category": "Shared",
+          "nodeId": "3774:8797"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "02f93d4797e14bd19e0aed332ef1ce3bd67412ba2f09ca3401b04cfee86aeb58"
+    },
+    {
+      "id": "change-language-3710-454",
+      "name": "Change language",
+      "slug": "change-language",
+      "asset": "/icons/change-language-3710-454.svg",
+      "masterId": "3710:454",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6584",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-071",
+          "name": "Change language",
+          "category": "Interface",
+          "nodeId": "3774:6584"
+        },
+        {
+          "code": "SHELL-095",
+          "name": "Language",
+          "category": "Shared",
+          "nodeId": "3774:7670"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9f524a31a691a864ca943d726d74adad4b62205de9a36a8588a9532b43d41504"
+    },
+    {
+      "id": "change-password-3710-2761",
+      "name": "Change password",
+      "slug": "change-password",
+      "asset": "/icons/change-password-3710-2761.svg",
+      "masterId": "3710:2761",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7719",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-103",
+          "name": "Change password",
+          "category": "Shared",
+          "nodeId": "3774:7719"
+        },
+        {
+          "code": "SHELL-140",
+          "name": "Password",
+          "category": "Shared",
+          "nodeId": "3774:7946"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5a7301cf69ba43cba0d6e23dca8bb7ebd1c39fcbd52d78899164cd2569a2d265"
+    },
+    {
+      "id": "chatbot-3767-6228",
+      "name": "Chatbot",
+      "slug": "chatbot",
+      "asset": "/icons/chatbot-3767-6228.svg",
+      "masterId": "3767:6228",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7725",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-104",
+          "name": "Chatbot",
+          "category": "Shared",
+          "nodeId": "3774:7725"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5e52fae9517214f61b2c28e1d1ce7aa9d846512b9cbaa004ef72f2855906ead6"
+    },
+    {
+      "id": "checkbox-check-3710-2637",
+      "name": "Checkbox check",
+      "slug": "checkbox-check",
+      "asset": "/icons/checkbox-check-3710-2637.svg",
+      "masterId": "3710:2637",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6523",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-061",
+          "name": "Checkbox check",
+          "category": "Interface",
+          "nodeId": "3774:6523"
+        },
+        {
+          "code": "SHELL-170",
+          "name": "Confirm",
+          "category": "Shared",
+          "nodeId": "3774:8130"
+        },
+        {
+          "code": "SHELL-218",
+          "name": "Success",
+          "category": "Shared",
+          "nodeId": "3774:8424"
+        },
+        {
+          "code": "SHELL-228",
+          "name": "Check",
+          "category": "Shared",
+          "nodeId": "3774:8485"
+        },
+        {
+          "code": "SHELL-238",
+          "name": "Permission checked",
+          "category": "Shared",
+          "nodeId": "3774:8546"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "1d79228f5eb26a85bca80c34290bd352082cd2b3ce1eddfb8328daec07aaae69"
+    },
+    {
+      "id": "close-popup-3767-7058",
+      "name": "Close popup",
+      "slug": "close-popup",
+      "asset": "/icons/close-popup-3767-7058.svg",
+      "masterId": "3767:7058",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8338",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-204",
+          "name": "Close popup",
+          "category": "Shared",
+          "nodeId": "3774:8338"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "2e553fa0bbe863e7ad1840417d7b9ebd2133302bab23d51cebfde48a9d880389"
+    },
+    {
+      "id": "collapse-details-3766-5274",
+      "name": "Collapse details",
+      "slug": "collapse-details",
+      "asset": "/icons/collapse-details-3766-5274.svg",
+      "masterId": "3766:5274",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6462",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-051",
+          "name": "Collapse details",
+          "category": "Interface",
+          "nodeId": "3774:6462"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9fb3a85194f08823420e82ebc761697858da9ffd9b307c0ffd8abecb79f6a380"
+    },
+    {
+      "id": "column-background-3766-7285",
+      "name": "Column background",
+      "slug": "column-background",
+      "asset": "/icons/column-background-3766-7285.svg",
+      "masterId": "3766:7285",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7450",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-059",
+          "name": "Column background",
+          "category": "Shared",
+          "nodeId": "3774:7450"
+        },
+        {
+          "code": "SHELL-205",
+          "name": "Column background alternate",
+          "category": "Shared",
+          "nodeId": "3774:8344"
+        },
+        {
+          "code": "SHELL-249",
+          "name": "Link background",
+          "category": "Shared",
+          "nodeId": "3774:8614"
+        },
+        {
+          "code": "SHELL-300",
+          "name": "Background",
+          "category": "Shared",
+          "nodeId": "3774:8926"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7ae0e032bcb35d629bcfa776f6cea659b49135788883fafe948d083d18736b9b"
+    },
+    {
+      "id": "company-subuser-3710-2906",
+      "name": "Company subuser",
+      "slug": "company-subuser",
+      "asset": "/icons/company-subuser-3710-2906.svg",
+      "masterId": "3710:2906",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7327",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-039",
+          "name": "Company subuser",
+          "category": "Shared",
+          "nodeId": "3774:7327"
+        },
+        {
+          "code": "SHELL-084",
+          "name": "Login user",
+          "category": "Shared",
+          "nodeId": "3774:7603"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "bb641a4f9d6192d580d56ff6dcb316c82030b7c3281919cd08e0c455203106be"
+    },
+    {
+      "id": "compass-brand-3767-6280",
+      "name": "Compass brand",
+      "slug": "compass-brand",
+      "asset": "/icons/compass-brand-3767-6280.svg",
+      "masterId": "3767:6280",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7750",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-108",
+          "name": "Compass brand",
+          "category": "Shared",
+          "nodeId": "3774:7750"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "787bbd5d67d81cdb79cbb8701f74b7281a08bee5e15b048d93c4a6b0dc9a4baa"
+    },
+    {
+      "id": "compt-brand-3766-7582",
+      "name": "Compt brand",
+      "slug": "compt-brand",
+      "asset": "/icons/compt-brand-3766-7582.svg",
+      "masterId": "3766:7582",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7621",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-087",
+          "name": "Compt brand",
+          "category": "Shared",
+          "nodeId": "3774:7621"
+        },
+        {
+          "code": "SHELL-168",
+          "name": "Wroadtrack brand",
+          "category": "Shared",
+          "nodeId": "3774:8117"
+        },
+        {
+          "code": "SHELL-299",
+          "name": "Flitrack brand",
+          "category": "Shared",
+          "nodeId": "3774:8920"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "f86873837a4c03b4bd84e8d3e90edce5d8904b2affca46b793ad91031c0495b4"
+    },
+    {
+      "id": "configuration-3710-2063",
+      "name": "Configuration",
+      "slug": "configuration",
+      "asset": "/icons/configuration-3710-2063.svg",
+      "masterId": "3710:2063",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6205",
+      "categories": [
+        "Interface",
+        "Menu",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-009",
+          "name": "Configuration",
+          "category": "Interface",
+          "nodeId": "3774:6205"
+        },
+        {
+          "code": "UI-070",
+          "name": "Settings",
+          "category": "Interface",
+          "nodeId": "3774:6578"
+        },
+        {
+          "code": "MENU-008",
+          "name": "Configuration",
+          "category": "Menu",
+          "nodeId": "3774:6707"
+        },
+        {
+          "code": "MENU-026",
+          "name": "Settings",
+          "category": "Menu",
+          "nodeId": "3774:6818"
+        },
+        {
+          "code": "SHELL-069",
+          "name": "Modify",
+          "category": "Shared",
+          "nodeId": "3774:7511"
+        },
+        {
+          "code": "SHELL-070",
+          "name": "Modify active",
+          "category": "Shared",
+          "nodeId": "3774:7517"
+        },
+        {
+          "code": "SHELL-242",
+          "name": "Configuration",
+          "category": "Shared",
+          "nodeId": "3774:8571"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7120424d2992f35ab0b97f851a2b49a6a916f9bc2a6a58251f4ee3dfa3a8f61c"
+    },
+    {
+      "id": "currency-3767-9071",
+      "name": "Currency",
+      "slug": "currency",
+      "asset": "/icons/currency-3767-9071.svg",
+      "masterId": "3767:9071",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9190",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-033",
+          "name": "Currency",
+          "category": "Extra",
+          "nodeId": "3774:9190"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a39c7cc5122cc98a833ab4c6e778f4bca43549289f67e2254d3f36a81ab0b8eb"
+    },
+    {
+      "id": "current-location-3710-493",
+      "name": "Current location",
+      "slug": "current-location",
+      "asset": "/icons/current-location-3710-493.svg",
+      "masterId": "3710:493",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8215",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-184",
+          "name": "Current location",
+          "category": "Shared",
+          "nodeId": "3774:8215"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8ba29caaa24d10333279609a6485c8ce1fe0ca87baf28f0edc3225a27b4749f9"
+    },
+    {
+      "id": "dashboard-3710-1700",
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "asset": "/icons/dashboard-3710-1700.svg",
+      "masterId": "3710:1700",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6714",
+      "categories": [
+        "Menu",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-009",
+          "name": "Dashboard",
+          "category": "Menu",
+          "nodeId": "3774:6714"
+        },
+        {
+          "code": "MENU-010",
+          "name": "Dashboard overview",
+          "category": "Menu",
+          "nodeId": "3774:6720"
+        },
+        {
+          "code": "SHELL-088",
+          "name": "Dashboard",
+          "category": "Shared",
+          "nodeId": "3774:7627"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ad030f3d5a5450b61636bc4868acd87a65fab1e4f286047cc59f4dcdb89c36f2"
+    },
+    {
+      "id": "dashcam-brand-3767-6305",
+      "name": "Dashcam brand",
+      "slug": "dashcam-brand",
+      "asset": "/icons/dashcam-brand-3767-6305.svg",
+      "masterId": "3767:6305",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7762",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-110",
+          "name": "Dashcam brand",
+          "category": "Shared",
+          "nodeId": "3774:7762"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "53810f9259b726a857aa85c4ab282e71cf132a13466d1bf6bd68847899db5401"
+    },
+    {
+      "id": "data-points-3710-2679",
+      "name": "Data points",
+      "slug": "data-points",
+      "asset": "/icons/data-points-3710-2679.svg",
+      "masterId": "3710:2679",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6499",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-057",
+          "name": "Data points",
+          "category": "Interface",
+          "nodeId": "3774:6499"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "cd9e5149016daebbc9c75671ec89b03b12b328b54d35a94c923600673954ff68"
+    },
+    {
+      "id": "delete-3710-2253",
+      "name": "Delete",
+      "slug": "delete",
+      "asset": "/icons/delete-3710-2253.svg",
+      "masterId": "3710:2253",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6156",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-001",
+          "name": "Delete",
+          "category": "Interface",
+          "nodeId": "3774:6156"
+        },
+        {
+          "code": "SHELL-199",
+          "name": "Delete",
+          "category": "Shared",
+          "nodeId": "3774:8307"
+        },
+        {
+          "code": "SHELL-206",
+          "name": "Delete location",
+          "category": "Shared",
+          "nodeId": "3774:8350"
+        },
+        {
+          "code": "SHELL-224",
+          "name": "Delete item",
+          "category": "Shared",
+          "nodeId": "3774:8460"
+        },
+        {
+          "code": "SHELL-234",
+          "name": "Delete alternate",
+          "category": "Shared",
+          "nodeId": "3774:8522"
+        },
+        {
+          "code": "SHELL-251",
+          "name": "Delete record",
+          "category": "Shared",
+          "nodeId": "3774:8626"
+        },
+        {
+          "code": "SHELL-266",
+          "name": "Delete selection",
+          "category": "Shared",
+          "nodeId": "3774:8718"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d123c57c9a9c2bb61d9f72633b5b2bbfb5b3f4327f8ec2224839f9f470b44961"
+    },
+    {
+      "id": "details-3710-1750",
+      "name": "Details",
+      "slug": "details",
+      "asset": "/icons/details-3710-1750.svg",
+      "masterId": "3710:1750",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6284",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-022",
+          "name": "Details",
+          "category": "Interface",
+          "nodeId": "3774:6284"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "eabfd4312328aaec68c45acdb87208cbeb59c9de90230cf3961c1743c19948b4"
+    },
+    {
+      "id": "device-port-3766-6275",
+      "name": "Device port",
+      "slug": "device-port",
+      "asset": "/icons/device-port-3766-6275.svg",
+      "masterId": "3766:6275",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6953",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-014",
+          "name": "Device port",
+          "category": "Table headers",
+          "nodeId": "3774:6953"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "c1c96e0a6693fd335bf4404c994fba3518a59f03cc5ac171a60b0d92c2e625e3"
+    },
+    {
+      "id": "download-xls-3710-1460",
+      "name": "Download XLS",
+      "slug": "download-xls",
+      "asset": "/icons/download-xls-3710-1460.svg",
+      "masterId": "3710:1460",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6174",
+      "categories": [
+        "Interface",
+        "Table headers",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-004",
+          "name": "Download XLS",
+          "category": "Interface",
+          "nodeId": "3774:6174"
+        },
+        {
+          "code": "UI-016",
+          "name": "Download CSV",
+          "category": "Interface",
+          "nodeId": "3774:6247"
+        },
+        {
+          "code": "UI-017",
+          "name": "Download document",
+          "category": "Interface",
+          "nodeId": "3774:6254"
+        },
+        {
+          "code": "UI-018",
+          "name": "Download PDF",
+          "category": "Interface",
+          "nodeId": "3774:6260"
+        },
+        {
+          "code": "UI-020",
+          "name": "Download XML",
+          "category": "Interface",
+          "nodeId": "3774:6272"
+        },
+        {
+          "code": "UI-021",
+          "name": "Download HTML",
+          "category": "Interface",
+          "nodeId": "3774:6278"
+        },
+        {
+          "code": "UI-043",
+          "name": "Download XLS",
+          "category": "Interface",
+          "nodeId": "3774:6413"
+        },
+        {
+          "code": "UI-047",
+          "name": "Download all",
+          "category": "Interface",
+          "nodeId": "3774:6437"
+        },
+        {
+          "code": "HEADER-024",
+          "name": "Download",
+          "category": "Table headers",
+          "nodeId": "3774:7014"
+        },
+        {
+          "code": "SHELL-019",
+          "name": "Download SOS audio",
+          "category": "Shared",
+          "nodeId": "3774:7205"
+        },
+        {
+          "code": "SHELL-177",
+          "name": "Download",
+          "category": "Shared",
+          "nodeId": "3774:8173"
+        },
+        {
+          "code": "SHELL-190",
+          "name": "Download alternate",
+          "category": "Shared",
+          "nodeId": "3774:8252"
+        },
+        {
+          "code": "SHELL-243",
+          "name": "Download PDF",
+          "category": "Shared",
+          "nodeId": "3774:8577"
+        },
+        {
+          "code": "SHELL-245",
+          "name": "Download XLS",
+          "category": "Shared",
+          "nodeId": "3774:8589"
+        },
+        {
+          "code": "SHELL-288",
+          "name": "Download PDF",
+          "category": "Shared",
+          "nodeId": "3774:8852"
+        },
+        {
+          "code": "SHELL-298",
+          "name": "Download XLS",
+          "category": "Shared",
+          "nodeId": "3774:8914"
+        },
+        {
+          "code": "EXTRA-003",
+          "name": "Download CSV",
+          "category": "Extra",
+          "nodeId": "3774:9006"
+        },
+        {
+          "code": "EXTRA-004",
+          "name": "Download DOC",
+          "category": "Extra",
+          "nodeId": "3774:9012"
+        },
+        {
+          "code": "EXTRA-009",
+          "name": "Download HTML",
+          "category": "Extra",
+          "nodeId": "3774:9043"
+        },
+        {
+          "code": "EXTRA-012",
+          "name": "Download PDF",
+          "category": "Extra",
+          "nodeId": "3774:9061"
+        },
+        {
+          "code": "EXTRA-014",
+          "name": "Download XLS",
+          "category": "Extra",
+          "nodeId": "3774:9073"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b2c23f481c1b3646b47f5f4f3c8b9b90590fa8d10738c9077ca6f0e8e67e88fa"
+    },
+    {
+      "id": "driver-allocation-3710-2890",
+      "name": "Driver allocation",
+      "slug": "driver-allocation",
+      "asset": "/icons/driver-allocation-3710-2890.svg",
+      "masterId": "3710:2890",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6327",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-029",
+          "name": "Driver allocation",
+          "category": "Interface",
+          "nodeId": "3774:6327"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7c18766011f6651cc771bb62bb9b9b1feab2a9d961da084203262569e53f930b"
+    },
+    {
+      "id": "duration-3710-2489",
+      "name": "Duration",
+      "slug": "duration",
+      "asset": "/icons/duration-3710-2489.svg",
+      "masterId": "3710:2489",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6874",
+      "categories": [
+        "Table headers",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-001",
+          "name": "Duration",
+          "category": "Table headers",
+          "nodeId": "3774:6874"
+        },
+        {
+          "code": "HEADER-003",
+          "name": "Running duration",
+          "category": "Table headers",
+          "nodeId": "3774:6886"
+        },
+        {
+          "code": "SHELL-047",
+          "name": "SOS time",
+          "category": "Shared",
+          "nodeId": "3774:7376"
+        },
+        {
+          "code": "SHELL-263",
+          "name": "Time picker",
+          "category": "Shared",
+          "nodeId": "3774:8699"
+        },
+        {
+          "code": "EXTRA-070",
+          "name": "Working hours",
+          "category": "Extra",
+          "nodeId": "3774:9416"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5de189ceea78b008affc0b1b479615d61116aa1ea1f0d9519ad846129530592f"
+    },
+    {
+      "id": "easysecure-brand-3767-6327",
+      "name": "Easysecure brand",
+      "slug": "easysecure-brand",
+      "asset": "/icons/easysecure-brand-3767-6327.svg",
+      "masterId": "3767:6327",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7774",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-112",
+          "name": "Easysecure brand",
+          "category": "Shared",
+          "nodeId": "3774:7774"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b83ca469770428798d7e4666027e29e0f8cbf74f9871724592d5451a4e844ac1"
+    },
+    {
+      "id": "edit-3710-1897",
+      "name": "Edit",
+      "slug": "edit",
+      "asset": "/icons/edit-3710-1897.svg",
+      "masterId": "3710:1897",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6652",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-082",
+          "name": "Edit",
+          "category": "Interface",
+          "nodeId": "3774:6652"
+        },
+        {
+          "code": "SHELL-239",
+          "name": "Edit alternate",
+          "category": "Shared",
+          "nodeId": "3774:8552"
+        },
+        {
+          "code": "SHELL-255",
+          "name": "Edit",
+          "category": "Shared",
+          "nodeId": "3774:8650"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "902439d5a58ae15e101f2848f0ed9940d764fd078a7d54b2adf1a9474064eca8"
+    },
+    {
+      "id": "edit-record-3710-2202",
+      "name": "Edit record",
+      "slug": "edit-record",
+      "asset": "/icons/edit-record-3710-2202.svg",
+      "masterId": "3710:2202",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8320",
+      "categories": [
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-201",
+          "name": "Edit record",
+          "category": "Shared",
+          "nodeId": "3774:8320"
+        },
+        {
+          "code": "SHELL-209",
+          "name": "Edit details",
+          "category": "Shared",
+          "nodeId": "3774:8369"
+        },
+        {
+          "code": "EXTRA-005",
+          "name": "Edit record",
+          "category": "Extra",
+          "nodeId": "3774:9018"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "52584d1a125370b95191bf185dd9d6ef8fad2a1abc8a308c425652d547be0fc4"
+    },
+    {
+      "id": "end-location-3766-6312",
+      "name": "End location",
+      "slug": "end-location",
+      "asset": "/icons/end-location-3766-6312.svg",
+      "masterId": "3766:6312",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6965",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-016",
+          "name": "End location",
+          "category": "Table headers",
+          "nodeId": "3774:6965"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "fc5a96efa179be91d241a5f8e0059a3fc7b1aa4135e304d592037c1110090696"
+    },
+    {
+      "id": "engine-health-3710-3220",
+      "name": "Engine health",
+      "slug": "engine-health",
+      "asset": "/icons/engine-health-3710-3220.svg",
+      "masterId": "3710:3220",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6345",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-032",
+          "name": "Engine health",
+          "category": "Interface",
+          "nodeId": "3774:6345"
+        },
+        {
+          "code": "SHELL-303",
+          "name": "Engine icon",
+          "category": "Shared",
+          "nodeId": "3774:8944"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "af2d584eaaa78f8ff1e0a575fc92587d40697820b606d970fe1479f6e6096845"
+    },
+    {
+      "id": "exit-full-screen-3766-7483",
+      "name": "Exit full screen",
+      "slug": "exit-full-screen",
+      "asset": "/icons/exit-full-screen-3766-7483.svg",
+      "masterId": "3766:7483",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7572",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-079",
+          "name": "Exit full screen",
+          "category": "Shared",
+          "nodeId": "3774:7572"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "29dac434be836d9add878bae8dca8cee64a8393c6b842e0eeac646a9e5954c26"
+    },
+    {
+      "id": "expand-details-3766-5257",
+      "name": "Expand details",
+      "slug": "expand-details",
+      "asset": "/icons/expand-details-3766-5257.svg",
+      "masterId": "3766:5257",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6456",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-050",
+          "name": "Expand details",
+          "category": "Interface",
+          "nodeId": "3774:6456"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "78b0e9bc6b8bb9c9169ff3017ca1d601f7969624e7bb8e71bfa4aa23cb1440c5"
+    },
+    {
+      "id": "expand-menu-3766-5625",
+      "name": "Expand menu",
+      "slug": "expand-menu",
+      "asset": "/icons/expand-menu-3766-5625.svg",
+      "masterId": "3766:5625",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6621",
+      "categories": [
+        "Interface",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-077",
+          "name": "Expand menu",
+          "category": "Interface",
+          "nodeId": "3774:6621"
+        },
+        {
+          "code": "SHELL-062",
+          "name": "Last page",
+          "category": "Shared",
+          "nodeId": "3774:7468"
+        },
+        {
+          "code": "SHELL-063",
+          "name": "Last page disabled",
+          "category": "Shared",
+          "nodeId": "3774:7474"
+        },
+        {
+          "code": "SHELL-275",
+          "name": "Expand group",
+          "category": "Shared",
+          "nodeId": "3774:8773"
+        },
+        {
+          "code": "SHELL-280",
+          "name": "Show tree",
+          "category": "Shared",
+          "nodeId": "3774:8803"
+        },
+        {
+          "code": "EXTRA-059",
+          "name": "Expand menu alternate",
+          "category": "Extra",
+          "nodeId": "3774:9349"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "516b2a168ebe947a32765ed1d067a7278dfb23aaa227d8f0e328b887a532b715"
+    },
+    {
+      "id": "expenses-3710-2308",
+      "name": "Expenses",
+      "slug": "expenses",
+      "asset": "/icons/expenses-3710-2308.svg",
+      "masterId": "3710:2308",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6382",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-038",
+          "name": "Expenses",
+          "category": "Interface",
+          "nodeId": "3774:6382"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "0a54a0b2a81bc42705043929803a2309af95dc9e5ba445efe2d23f0df6af067a"
+    },
+    {
+      "id": "fast-food-3767-9024",
+      "name": "Fast food",
+      "slug": "fast-food",
+      "asset": "/icons/fast-food-3767-9024.svg",
+      "masterId": "3767:9024",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9165",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-029",
+          "name": "Fast food",
+          "category": "Extra",
+          "nodeId": "3774:9165"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "091a3fa92fbeebf4dbf644e9172e76589e94fe34bb7cd6b736f6c76623df4d2a"
+    },
+    {
+      "id": "favourites-3710-2213",
+      "name": "Favourites",
+      "slug": "favourites",
+      "asset": "/icons/favourites-3710-2213.svg",
+      "masterId": "3710:2213",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6726",
+      "categories": [
+        "Menu",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-011",
+          "name": "Favourites",
+          "category": "Menu",
+          "nodeId": "3774:6726"
+        },
+        {
+          "code": "SHELL-004",
+          "name": "Favourites",
+          "category": "Shared",
+          "nodeId": "3774:7113"
+        },
+        {
+          "code": "SHELL-094",
+          "name": "Home favourite",
+          "category": "Shared",
+          "nodeId": "3774:7664"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "247bb2e9be661f0e4d5c47e95c7ccf034d0292680fd8186efd268f8482d55326"
+    },
+    {
+      "id": "ferris-wheel-3767-8929",
+      "name": "Ferris wheel",
+      "slug": "ferris-wheel",
+      "asset": "/icons/ferris-wheel-3767-8929.svg",
+      "masterId": "3767:8929",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9134",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-024",
+          "name": "Ferris wheel",
+          "category": "Extra",
+          "nodeId": "3774:9134"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "24418ff5fb1d7d3ac6cfe1cd2cfc145afb7deb6550e9635f37ea7ead0b150fdc"
+    },
+    {
+      "id": "filter-settings-3710-1560",
+      "name": "Filter settings",
+      "slug": "filter-settings",
+      "asset": "/icons/filter-settings-3710-1560.svg",
+      "masterId": "3710:1560",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6590",
+      "categories": [
+        "Interface",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-072",
+          "name": "Filter settings",
+          "category": "Interface",
+          "nodeId": "3774:6590"
+        },
+        {
+          "code": "SHELL-271",
+          "name": "Filter",
+          "category": "Shared",
+          "nodeId": "3774:8748"
+        },
+        {
+          "code": "SHELL-273",
+          "name": "Search filter",
+          "category": "Shared",
+          "nodeId": "3774:8761"
+        },
+        {
+          "code": "SHELL-274",
+          "name": "Filter alternate",
+          "category": "Shared",
+          "nodeId": "3774:8767"
+        },
+        {
+          "code": "SHELL-282",
+          "name": "All filters",
+          "category": "Shared",
+          "nodeId": "3774:8816"
+        },
+        {
+          "code": "EXTRA-008",
+          "name": "Filter",
+          "category": "Extra",
+          "nodeId": "3774:9036"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "4fcd6347ab2b495358ce4d6e34152a185f8bdaa803a2fc25c2d036305ab984cd"
+    },
+    {
+      "id": "findlo-brand-3767-6044",
+      "name": "Findlo brand",
+      "slug": "findlo-brand",
+      "asset": "/icons/findlo-brand-3767-6044.svg",
+      "masterId": "3767:6044",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7646",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-091",
+          "name": "Findlo brand",
+          "category": "Shared",
+          "nodeId": "3774:7646"
+        },
+        {
+          "code": "SHELL-092",
+          "name": "Findlo wordmark symbol",
+          "category": "Shared",
+          "nodeId": "3774:7652"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "f0c2f1bd4957421e74d9d019fad642063ea9dc298000f14f75f4b6f9aaff599d"
+    },
+    {
+      "id": "first-page-3766-7253",
+      "name": "First page",
+      "slug": "first-page",
+      "asset": "/icons/first-page-3766-7253.svg",
+      "masterId": "3766:7253",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7431",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-056",
+          "name": "First page",
+          "category": "Shared",
+          "nodeId": "3774:7431"
+        },
+        {
+          "code": "SHELL-057",
+          "name": "First page disabled",
+          "category": "Shared",
+          "nodeId": "3774:7438"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "596fdee543c1b901723f346b5518ba6cbbd5c5b0756c7b7635fdd4aeacd7e20c"
+    },
+    {
+      "id": "floor-layers-3710-1685",
+      "name": "Floor layers",
+      "slug": "floor-layers",
+      "asset": "/icons/floor-layers-3710-1685.svg",
+      "masterId": "3710:1685",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7162",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-012",
+          "name": "Floor layers",
+          "category": "Shared",
+          "nodeId": "3774:7162"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b7a5aa424b21844b1a0a491ee3509bd58aa5315d683fbe3b7414f126838edbbc"
+    },
+    {
+      "id": "forward-3710-863",
+      "name": "Forward",
+      "slug": "forward",
+      "asset": "/icons/forward-3710-863.svg",
+      "masterId": "3710:863",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8528",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-235",
+          "name": "Forward",
+          "category": "Shared",
+          "nodeId": "3774:8528"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ab29d9c8e6db22dd169946ddbdb7b25fe5c80dc6f79ffe26209cf1116bac7b45"
+    },
+    {
+      "id": "fuel-3710-427",
+      "name": "Fuel",
+      "slug": "fuel",
+      "asset": "/icons/fuel-3710-427.svg",
+      "masterId": "3710:427",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7021",
+      "categories": [
+        "Table headers",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-025",
+          "name": "Fuel",
+          "category": "Table headers",
+          "nodeId": "3774:7021"
+        },
+        {
+          "code": "EXTRA-041",
+          "name": "Petrol station",
+          "category": "Extra",
+          "nodeId": "3774:9239"
+        },
+        {
+          "code": "EXTRA-065",
+          "name": "Fuel level",
+          "category": "Extra",
+          "nodeId": "3774:9386"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "799a04faee9f3948fb4eacdab74d4b36d5ea190a9c520d46d3677e9c60ac07dc"
+    },
+    {
+      "id": "full-battery-3710-260",
+      "name": "Full battery",
+      "slug": "full-battery",
+      "asset": "/icons/full-battery-3710-260.svg",
+      "masterId": "3710:260",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6468",
+      "categories": [
+        "Interface",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-052",
+          "name": "Full battery",
+          "category": "Interface",
+          "nodeId": "3774:6468"
+        },
+        {
+          "code": "UI-055",
+          "name": "Low battery",
+          "category": "Interface",
+          "nodeId": "3774:6486"
+        },
+        {
+          "code": "UI-064",
+          "name": "Half battery",
+          "category": "Interface",
+          "nodeId": "3774:6541"
+        },
+        {
+          "code": "UI-065",
+          "name": "High battery",
+          "category": "Interface",
+          "nodeId": "3774:6548"
+        },
+        {
+          "code": "SHELL-187",
+          "name": "Battery healthy",
+          "category": "Shared",
+          "nodeId": "3774:8234"
+        },
+        {
+          "code": "SHELL-188",
+          "name": "Battery low",
+          "category": "Shared",
+          "nodeId": "3774:8240"
+        },
+        {
+          "code": "EXTRA-048",
+          "name": "External battery low",
+          "category": "Extra",
+          "nodeId": "3774:9281"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ce27658d49f6f74c6e1cdf3014e535d29891c6552467f1975ac4dc95be6281b3"
+    },
+    {
+      "id": "full-screen-3710-1102",
+      "name": "Full screen",
+      "slug": "full-screen",
+      "asset": "/icons/full-screen-3710-1102.svg",
+      "masterId": "3710:1102",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7658",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-093",
+          "name": "Full screen",
+          "category": "Shared",
+          "nodeId": "3774:7658"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "2f1a09a8fd8f747234a9b0d574250b6da28e3c92cff35f0aca73c2ff73723bd1"
+    },
+    {
+      "id": "geofence-3766-5237",
+      "name": "Geofence",
+      "slug": "geofence",
+      "asset": "/icons/geofence-3766-5237.svg",
+      "masterId": "3766:5237",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6450",
+      "categories": [
+        "Interface",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-049",
+          "name": "Geofence",
+          "category": "Interface",
+          "nodeId": "3774:6450"
+        },
+        {
+          "code": "EXTRA-037",
+          "name": "Fence",
+          "category": "Extra",
+          "nodeId": "3774:9214"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "e81c274a26a90bbf47f7ad8b92f6e7e7776113a50b739df7d85e70e99ca28f66"
+    },
+    {
+      "id": "good-to-go-3710-2865",
+      "name": "Good to go",
+      "slug": "good-to-go",
+      "asset": "/icons/good-to-go-3710-2865.svg",
+      "masterId": "3710:2865",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6388",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-039",
+          "name": "Good to go",
+          "category": "Interface",
+          "nodeId": "3774:6388"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "06b34a9c468ddc1c3a0636cd2560f0fd41fed244c9577f200a89fe9a7fd56021"
+    },
+    {
+      "id": "gps-signal-3710-786",
+      "name": "GPS signal",
+      "slug": "gps-signal",
+      "asset": "/icons/gps-signal-3710-786.svg",
+      "masterId": "3710:786",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6321",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-028",
+          "name": "GPS signal",
+          "category": "Interface",
+          "nodeId": "3774:6321"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "e92a84084d694ca11571a0183feacff3d38507fda4453ccdf439495009929342"
+    },
+    {
+      "id": "gps-status-3710-3053",
+      "name": "GPS status",
+      "slug": "gps-status",
+      "asset": "/icons/gps-status-3710-3053.svg",
+      "masterId": "3710:3053",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7033",
+      "categories": [
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-027",
+          "name": "GPS status",
+          "category": "Table headers",
+          "nodeId": "3774:7033"
+        },
+        {
+          "code": "SHELL-193",
+          "name": "Signal connected",
+          "category": "Shared",
+          "nodeId": "3774:8271"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d499bc631b2f83801f6994c62401b5d0fe36e403e37e8d1cb0cc4d43cc774f4c"
+    },
+    {
+      "id": "help-3766-5639",
+      "name": "Help",
+      "slug": "help",
+      "asset": "/icons/help-3766-5639.svg",
+      "masterId": "3766:5639",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6627",
+      "categories": [
+        "Interface",
+        "Menu",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-078",
+          "name": "Help",
+          "category": "Interface",
+          "nodeId": "3774:6627"
+        },
+        {
+          "code": "MENU-012",
+          "name": "Help",
+          "category": "Menu",
+          "nodeId": "3774:6732"
+        },
+        {
+          "code": "SHELL-080",
+          "name": "Help",
+          "category": "Shared",
+          "nodeId": "3774:7578"
+        },
+        {
+          "code": "SHELL-120",
+          "name": "Help alternate",
+          "category": "Shared",
+          "nodeId": "3774:7823"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "476fe766c064fd7b55e065b18f0a198a6e149f41e959853aa8ae5575fe2b807d"
+    },
+    {
+      "id": "highway-3767-9173",
+      "name": "Highway",
+      "slug": "highway",
+      "asset": "/icons/highway-3767-9173.svg",
+      "masterId": "3767:9173",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9232",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-040",
+          "name": "Highway",
+          "category": "Extra",
+          "nodeId": "3774:9232"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a0ef24c3624843fc7f4dc91b26a4d2e9e2f4566417d5398d60a4bfb89e2df8ff"
+    },
+    {
+      "id": "history-3710-2518",
+      "name": "History",
+      "slug": "history",
+      "asset": "/icons/history-3710-2518.svg",
+      "masterId": "3710:2518",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6480",
+      "categories": [
+        "Interface",
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "UI-054",
+          "name": "History",
+          "category": "Interface",
+          "nodeId": "3774:6480"
+        },
+        {
+          "code": "HEADER-030",
+          "name": "History",
+          "category": "Table headers",
+          "nodeId": "3774:7051"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ee20dc8a6bf5cd5634e9ecebf2bce838f61e5785b773a3f4f066e92d34d3403c"
+    },
+    {
+      "id": "home-3766-5840",
+      "name": "Home",
+      "slug": "home",
+      "asset": "/icons/home-3766-5840.svg",
+      "masterId": "3766:5840",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6738",
+      "categories": [
+        "Menu",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-013",
+          "name": "Home",
+          "category": "Menu",
+          "nodeId": "3774:6738"
+        },
+        {
+          "code": "SHELL-001",
+          "name": "Home",
+          "category": "Shared",
+          "nodeId": "3774:7095"
+        },
+        {
+          "code": "EXTRA-035",
+          "name": "Home",
+          "category": "Extra",
+          "nodeId": "3774:9202"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5a6345ec5523025a06e53c349c6df7ac1c76c22a548dc05d57145d2ec27e7247"
+    },
+    {
+      "id": "hospital-3767-9005",
+      "name": "Hospital",
+      "slug": "hospital",
+      "asset": "/icons/hospital-3767-9005.svg",
+      "masterId": "3767:9005",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9159",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-028",
+          "name": "Hospital",
+          "category": "Extra",
+          "nodeId": "3774:9159"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "4507f6f5f5f4eefb7fef2bb7bd42db6622d0b14eb1e2efdcfd86bd99b198738b"
+    },
+    {
+      "id": "image-3766-6936",
+      "name": "Image",
+      "slug": "image",
+      "asset": "/icons/image-3766-6936.svg",
+      "masterId": "3766:6936",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8399",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-214",
+          "name": "Image",
+          "category": "Shared",
+          "nodeId": "3774:8399"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "c22742cc686e6f3973c0a264238a2e7cc4e81462ebe0d7fdef4f6cd7ebe16eb7"
+    },
+    {
+      "id": "image-attachment-3710-1874",
+      "name": "Image attachment",
+      "slug": "image-attachment",
+      "asset": "/icons/image-attachment-3710-1874.svg",
+      "masterId": "3710:1874",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7260",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-028",
+          "name": "Image attachment",
+          "category": "Shared",
+          "nodeId": "3774:7260"
+        },
+        {
+          "code": "SHELL-037",
+          "name": "SOS attachments",
+          "category": "Shared",
+          "nodeId": "3774:7315"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d56bc814e1038e84dbe0a87c2a7af3b7ad5a14c0a6660f81746bc1f85d340ed7"
+    },
+    {
+      "id": "image-gallery-3766-5360",
+      "name": "Image gallery",
+      "slug": "image-gallery",
+      "asset": "/icons/image-gallery-3766-5360.svg",
+      "masterId": "3766:5360",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6505",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-058",
+          "name": "Image gallery",
+          "category": "Interface",
+          "nodeId": "3774:6505"
+        },
+        {
+          "code": "SHELL-253",
+          "name": "Photo gallery",
+          "category": "Shared",
+          "nodeId": "3774:8638"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "16330813d5716f59228debbcfe04a24bf84724b738b7da272c669bbb408e8875"
+    },
+    {
+      "id": "imei-barcode-3767-9513",
+      "name": "IMEI barcode",
+      "slug": "imei-barcode",
+      "asset": "/icons/imei-barcode-3767-9513.svg",
+      "masterId": "3767:9513",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9392",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-066",
+          "name": "IMEI barcode",
+          "category": "Extra",
+          "nodeId": "3774:9392"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "036cce92a57df4a37dc2f7550a73eff43a533954c44752ae26c82a863160b370"
+    },
+    {
+      "id": "information-3710-2734",
+      "name": "Information",
+      "slug": "information",
+      "asset": "/icons/information-3710-2734.svg",
+      "masterId": "3710:2734",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6376",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-037",
+          "name": "Information",
+          "category": "Interface",
+          "nodeId": "3774:6376"
+        },
+        {
+          "code": "SHELL-257",
+          "name": "Information",
+          "category": "Shared",
+          "nodeId": "3774:8663"
+        },
+        {
+          "code": "SHELL-278",
+          "name": "Information detail",
+          "category": "Shared",
+          "nodeId": "3774:8791"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "0c64af5ca46f62988ac2be5036150019946e787ec8b26f50b187346367d14153"
+    },
+    {
+      "id": "job-route-3710-603",
+      "name": "Job route",
+      "slug": "job-route",
+      "asset": "/icons/job-route-3710-603.svg",
+      "masterId": "3710:603",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6474",
+      "categories": [
+        "Interface",
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-053",
+          "name": "Job route",
+          "category": "Interface",
+          "nodeId": "3774:6474"
+        },
+        {
+          "code": "HEADER-034",
+          "name": "Show path",
+          "category": "Table headers",
+          "nodeId": "3774:7076"
+        },
+        {
+          "code": "SHELL-208",
+          "name": "Draw path",
+          "category": "Shared",
+          "nodeId": "3774:8362"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "f86873837a4c03b4bd84e8d3e90edce5d8904b2affca46b793ad91031c0495b4"
+    },
+    {
+      "id": "jobs-3765-5584",
+      "name": "Jobs",
+      "slug": "jobs",
+      "asset": "/icons/jobs-3765-5584.svg",
+      "masterId": "3765:5584",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6394",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-040",
+          "name": "Jobs",
+          "category": "Interface",
+          "nodeId": "3774:6394"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "3f9da6829bfee0e9585a2db0bf4cd1e52358d48c4fad7dac3179afbb21706ec5"
+    },
+    {
+      "id": "last-page-3767-8664",
+      "name": "Last page",
+      "slug": "last-page",
+      "asset": "/icons/last-page-3767-8664.svg",
+      "masterId": "3767:8664",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9024",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-006",
+          "name": "Last page",
+          "category": "Extra",
+          "nodeId": "3774:9024"
+        },
+        {
+          "code": "EXTRA-007",
+          "name": "Last page alternate",
+          "category": "Extra",
+          "nodeId": "3774:9030"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "43414ba53a9a3b8cdba5ddfc66882a76fdc73597ac250369bde9c7871e3d6a9f"
+    },
+    {
+      "id": "leisure-area-3767-8799",
+      "name": "Leisure area",
+      "slug": "leisure-area",
+      "asset": "/icons/leisure-area-3767-8799.svg",
+      "masterId": "3767:8799",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9092",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-017",
+          "name": "Leisure area",
+          "category": "Extra",
+          "nodeId": "3774:9092"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "df61f3680256b9af561426f93de547ffdae4f3d00c9e6990bd2fab8ed996dc12"
+    },
+    {
+      "id": "loading-3710-1779",
+      "name": "Loading",
+      "slug": "loading",
+      "asset": "/icons/loading-3710-1779.svg",
+      "masterId": "3710:1779",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7585",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-081",
+          "name": "Loading",
+          "category": "Shared",
+          "nodeId": "3774:7585"
+        },
+        {
+          "code": "SHELL-146",
+          "name": "Progress",
+          "category": "Shared",
+          "nodeId": "3774:7983"
+        },
+        {
+          "code": "SHELL-305",
+          "name": "Loading alternate",
+          "category": "Shared",
+          "nodeId": "3774:8957"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "0e0398bd17c01babeae30d0e02e4231225ef9e5de3b664c99800f40fb72f7029"
+    },
+    {
+      "id": "location-3710-523",
+      "name": "Location",
+      "slug": "location",
+      "asset": "/icons/location-3710-523.svg",
+      "masterId": "3710:523",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6750",
+      "categories": [
+        "Menu",
+        "Table headers",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-015",
+          "name": "Location",
+          "category": "Menu",
+          "nodeId": "3774:6750"
+        },
+        {
+          "code": "MENU-027",
+          "name": "Tracking",
+          "category": "Menu",
+          "nodeId": "3774:6824"
+        },
+        {
+          "code": "MENU-028",
+          "name": "Tracking / alternate",
+          "category": "Menu",
+          "nodeId": "3774:6830"
+        },
+        {
+          "code": "MENU-029",
+          "name": "Tracking / alternate 2",
+          "category": "Menu",
+          "nodeId": "3774:6836"
+        },
+        {
+          "code": "MENU-030",
+          "name": "Tracking / selected",
+          "category": "Menu",
+          "nodeId": "3774:6842"
+        },
+        {
+          "code": "HEADER-007",
+          "name": "Location",
+          "category": "Table headers",
+          "nodeId": "3774:6910"
+        },
+        {
+          "code": "HEADER-018",
+          "name": "Map location",
+          "category": "Table headers",
+          "nodeId": "3774:6978"
+        },
+        {
+          "code": "SHELL-258",
+          "name": "Marker",
+          "category": "Shared",
+          "nodeId": "3774:8669"
+        },
+        {
+          "code": "EXTRA-036",
+          "name": "Place marker",
+          "category": "Extra",
+          "nodeId": "3774:9208"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "be7c000521404474ca65178da967895618402907af0c7f977f9960a854cafc38"
+    },
+    {
+      "id": "locked-3766-7223",
+      "name": "Locked",
+      "slug": "locked",
+      "asset": "/icons/locked-3766-7223.svg",
+      "masterId": "3766:7223",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7413",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-053",
+          "name": "Locked",
+          "category": "Shared",
+          "nodeId": "3774:7413"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "bd60ec8216f43a830970a7a6104992af25365aeb942ec914cad1239281ab6288"
+    },
+    {
+      "id": "logout-3710-1087",
+      "name": "Logout",
+      "slug": "logout",
+      "asset": "/icons/logout-3710-1087.svg",
+      "masterId": "3710:1087",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7591",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-082",
+          "name": "Logout",
+          "category": "Shared",
+          "nodeId": "3774:7591"
+        },
+        {
+          "code": "SHELL-162",
+          "name": "User logout",
+          "category": "Shared",
+          "nodeId": "3774:8081"
+        },
+        {
+          "code": "SHELL-163",
+          "name": "User logout alternate",
+          "category": "Shared",
+          "nodeId": "3774:8087"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "eee682c31b79419d4a99e5aa5bb30b33154ac01e296f08d81606c8ca395ec909"
+    },
+    {
+      "id": "marketplace-3767-6600",
+      "name": "Marketplace",
+      "slug": "marketplace",
+      "asset": "/icons/marketplace-3767-6600.svg",
+      "masterId": "3767:6600",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7897",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-132",
+          "name": "Marketplace",
+          "category": "Shared",
+          "nodeId": "3774:7897"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a22cbcf29044d1c8d290c044d4f32dc633de2725dc7e62710a0772c5fc320fc2"
+    },
+    {
+      "id": "medical-aid-3767-8844",
+      "name": "Medical aid",
+      "slug": "medical-aid",
+      "asset": "/icons/medical-aid-3767-8844.svg",
+      "masterId": "3767:8844",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9110",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-020",
+          "name": "Medical aid",
+          "category": "Extra",
+          "nodeId": "3774:9110"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5d6196df108edd687cd2ef3025f96c2c930ec4ed2f63ce254e121e51dfb24a5d"
+    },
+    {
+      "id": "megaphone-3767-6657",
+      "name": "Megaphone",
+      "slug": "megaphone",
+      "asset": "/icons/megaphone-3767-6657.svg",
+      "masterId": "3767:6657",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7915",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-135",
+          "name": "Megaphone",
+          "category": "Shared",
+          "nodeId": "3774:7915"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "2cc03c20f0bd085bfbd6f87a10f472206d62edcc9e0bc81ddff94381ef5621eb"
+    },
+    {
+      "id": "message-sent-3767-7181",
+      "name": "Message sent",
+      "slug": "message-sent",
+      "asset": "/icons/message-sent-3767-7181.svg",
+      "masterId": "3767:7181",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8203",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-182",
+          "name": "Message sent",
+          "category": "Shared",
+          "nodeId": "3774:8203"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "124e08163f46141fe92f2cef16507baf00bab707b9d91456caa43aeaa0cefd9f"
+    },
+    {
+      "id": "milestone-3766-6082",
+      "name": "Milestone",
+      "slug": "milestone",
+      "asset": "/icons/milestone-3766-6082.svg",
+      "masterId": "3766:6082",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8963",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-306",
+          "name": "Milestone",
+          "category": "Shared",
+          "nodeId": "3774:8963"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7ab667d30d2a48033fe1e016f7fd3c485ed5c725ed79512869acba01ba329867"
+    },
+    {
+      "id": "minimise-3710-1801",
+      "name": "Minimise",
+      "slug": "minimise",
+      "asset": "/icons/minimise-3710-1801.svg",
+      "masterId": "3710:1801",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6603",
+      "categories": [
+        "Interface",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-074",
+          "name": "Minimise",
+          "category": "Interface",
+          "nodeId": "3774:6603"
+        },
+        {
+          "code": "SHELL-259",
+          "name": "Minimise alternate",
+          "category": "Shared",
+          "nodeId": "3774:8675"
+        },
+        {
+          "code": "SHELL-260",
+          "name": "Minus",
+          "category": "Shared",
+          "nodeId": "3774:8681"
+        },
+        {
+          "code": "EXTRA-061",
+          "name": "Minus",
+          "category": "Extra",
+          "nodeId": "3774:9361"
+        },
+        {
+          "code": "EXTRA-062",
+          "name": "Minus alternate",
+          "category": "Extra",
+          "nodeId": "3774:9367"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7278398c1fa73b863873fe7376e502aaf9874f40d4b834cd2c5b7ca790fa100c"
+    },
+    {
+      "id": "mobile-3766-7167",
+      "name": "Mobile",
+      "slug": "mobile",
+      "asset": "/icons/mobile-3766-7167.svg",
+      "masterId": "3766:7167",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7921",
+      "categories": [
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-136",
+          "name": "Mobile",
+          "category": "Shared",
+          "nodeId": "3774:7921"
+        },
+        {
+          "code": "EXTRA-067",
+          "name": "Mobile number",
+          "category": "Extra",
+          "nodeId": "3774:9398"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "efec4a6044bf0aebd28b97b0314dffffa418471eb6569e80e92a5386c0675084"
+    },
+    {
+      "id": "mobile-number-3710-3024",
+      "name": "Mobile number",
+      "slug": "mobile-number",
+      "asset": "/icons/mobile-number-3710-3024.svg",
+      "masterId": "3710:3024",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7364",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-045",
+          "name": "Mobile number",
+          "category": "Shared",
+          "nodeId": "3774:7364"
+        },
+        {
+          "code": "SHELL-141",
+          "name": "Call",
+          "category": "Shared",
+          "nodeId": "3774:7952"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "99ca91e07dbdfc48f8267f3edaf947784c0a98b2c557d0f210305e25bb61f67b"
+    },
+    {
+      "id": "more-applications-3710-1716",
+      "name": "More applications",
+      "slug": "more-applications",
+      "asset": "/icons/more-applications-3710-1716.svg",
+      "masterId": "3710:1716",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7934",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-138",
+          "name": "More applications",
+          "category": "Shared",
+          "nodeId": "3774:7934"
+        },
+        {
+          "code": "SHELL-287",
+          "name": "Interface sprite overview",
+          "category": "Shared",
+          "nodeId": "3774:8846"
+        },
+        {
+          "code": "SHELL-294",
+          "name": "Tracking sprite overview",
+          "category": "Shared",
+          "nodeId": "3774:8889"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "530e3786e0d09125c44685b88c18079c827da93b41a028aa04adc7e93e846c8d"
+    },
+    {
+      "id": "more-options-3710-1813",
+      "name": "More options",
+      "slug": "more-options",
+      "asset": "/icons/more-options-3710-1813.svg",
+      "masterId": "3710:1813",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6401",
+      "categories": [
+        "Interface",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-041",
+          "name": "More options",
+          "category": "Interface",
+          "nodeId": "3774:6401"
+        },
+        {
+          "code": "SHELL-067",
+          "name": "More actions",
+          "category": "Shared",
+          "nodeId": "3774:7499"
+        },
+        {
+          "code": "SHELL-252",
+          "name": "More options",
+          "category": "Shared",
+          "nodeId": "3774:8632"
+        },
+        {
+          "code": "EXTRA-011",
+          "name": "More options",
+          "category": "Extra",
+          "nodeId": "3774:9055"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b4a1143d3cb03db1f9542e5b4dedd381ce6e55e1991b50831bd4a19f7246c28c"
+    },
+    {
+      "id": "mosque-3767-8825",
+      "name": "Mosque",
+      "slug": "mosque",
+      "asset": "/icons/mosque-3767-8825.svg",
+      "masterId": "3767:8825",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9104",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-019",
+          "name": "Mosque",
+          "category": "Extra",
+          "nodeId": "3774:9104"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8f8f72e23a1050e408417c9af09a83d3f5b20c665a0576e095046c362d491d88"
+    },
+    {
+      "id": "nearby-3767-9541",
+      "name": "Nearby",
+      "slug": "nearby",
+      "asset": "/icons/nearby-3767-9541.svg",
+      "masterId": "3767:9541",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9404",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-068",
+          "name": "Nearby",
+          "category": "Extra",
+          "nodeId": "3774:9404"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "20b5be4fccadc51ca0152aa18435c41f43d7ce6369428d432b20dd0b008f1956"
+    },
+    {
+      "id": "new-record-3767-7781",
+      "name": "New record",
+      "slug": "new-record",
+      "asset": "/icons/new-record-3767-7781.svg",
+      "masterId": "3767:7781",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8534",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-236",
+          "name": "New record",
+          "category": "Shared",
+          "nodeId": "3774:8534"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d2a6263cb68da682a39b7c612980e6444a3ac2ee4ea3b6f1a7113ad5e2ce6e92"
+    },
+    {
+      "id": "next-page-3710-947",
+      "name": "Next page",
+      "slug": "next-page",
+      "asset": "/icons/next-page-3710-947.svg",
+      "masterId": "3710:947",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6217",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-011",
+          "name": "Next page",
+          "category": "Interface",
+          "nodeId": "3774:6217"
+        },
+        {
+          "code": "SHELL-007",
+          "name": "Open menu",
+          "category": "Shared",
+          "nodeId": "3774:7131"
+        },
+        {
+          "code": "SHELL-009",
+          "name": "Next AI insight",
+          "category": "Shared",
+          "nodeId": "3774:7144"
+        },
+        {
+          "code": "SHELL-014",
+          "name": "Next popup page",
+          "category": "Shared",
+          "nodeId": "3774:7174"
+        },
+        {
+          "code": "SHELL-036",
+          "name": "Next image",
+          "category": "Shared",
+          "nodeId": "3774:7309"
+        },
+        {
+          "code": "SHELL-060",
+          "name": "Next page",
+          "category": "Shared",
+          "nodeId": "3774:7456"
+        },
+        {
+          "code": "SHELL-061",
+          "name": "Next page disabled",
+          "category": "Shared",
+          "nodeId": "3774:7462"
+        },
+        {
+          "code": "SHELL-065",
+          "name": "Next disabled",
+          "category": "Shared",
+          "nodeId": "3774:7487"
+        },
+        {
+          "code": "SHELL-071",
+          "name": "Next",
+          "category": "Shared",
+          "nodeId": "3774:7523"
+        },
+        {
+          "code": "SHELL-074",
+          "name": "Expand tree",
+          "category": "Shared",
+          "nodeId": "3774:7542"
+        },
+        {
+          "code": "SHELL-077",
+          "name": "Next panel",
+          "category": "Shared",
+          "nodeId": "3774:7560"
+        },
+        {
+          "code": "SHELL-307",
+          "name": "Right edge",
+          "category": "Shared",
+          "nodeId": "3774:8969"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "749871a01ff726b65ef669ec1a26ec32ad357bb03acb1e53ad928c757c83544b"
+    },
+    {
+      "id": "north-3710-875",
+      "name": "North",
+      "slug": "north",
+      "asset": "/icons/north-3710-875.svg",
+      "masterId": "3710:875",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8283",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-195",
+          "name": "North",
+          "category": "Shared",
+          "nodeId": "3774:8283"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "c25ac5bef2d01cfda790ef5ab7571b09eeb1756beaf51117e652b6202fa2d2c4"
+    },
+    {
+      "id": "object-navigation-3710-743",
+      "name": "Object navigation",
+      "slug": "object-navigation",
+      "asset": "/icons/object-navigation-3710-743.svg",
+      "masterId": "3710:743",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6535",
+      "categories": [
+        "Interface",
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "UI-063",
+          "name": "Object navigation",
+          "category": "Interface",
+          "nodeId": "3774:6535"
+        },
+        {
+          "code": "HEADER-005",
+          "name": "Vehicle information",
+          "category": "Table headers",
+          "nodeId": "3774:6898"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9cbfece7f965e5664e0f661951a8313fdca7d5eea6088d26322e419e3e45f8cc"
+    },
+    {
+      "id": "open-dropdown-3710-927",
+      "name": "Open dropdown",
+      "slug": "open-dropdown",
+      "asset": "/icons/open-dropdown-3710-927.svg",
+      "masterId": "3710:927",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6633",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-079",
+          "name": "Open dropdown",
+          "category": "Interface",
+          "nodeId": "3774:6633"
+        },
+        {
+          "code": "SHELL-111",
+          "name": "Select dropdown",
+          "category": "Shared",
+          "nodeId": "3774:7768"
+        },
+        {
+          "code": "SHELL-142",
+          "name": "Panel down",
+          "category": "Shared",
+          "nodeId": "3774:7958"
+        },
+        {
+          "code": "SHELL-144",
+          "name": "Panel down alternate",
+          "category": "Shared",
+          "nodeId": "3774:7970"
+        },
+        {
+          "code": "SHELL-185",
+          "name": "Arrow down",
+          "category": "Shared",
+          "nodeId": "3774:8222"
+        },
+        {
+          "code": "SHELL-283",
+          "name": "Dropdown arrow",
+          "category": "Shared",
+          "nodeId": "3774:8822"
+        },
+        {
+          "code": "SHELL-286",
+          "name": "Down",
+          "category": "Shared",
+          "nodeId": "3774:8840"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "3381a8abc9965b6c203bcdab50bb8db405a858111aead6cda79a123deadbd656"
+    },
+    {
+      "id": "order-placed-3710-635",
+      "name": "Order placed",
+      "slug": "order-placed",
+      "asset": "/icons/order-placed-3710-635.svg",
+      "masterId": "3710:635",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7297",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-034",
+          "name": "Order placed",
+          "category": "Shared",
+          "nodeId": "3774:7297"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7d4f0bd39191b38d8e3db3c4c2c6081ffe2c4cc998f88463fef5aa05b0dcb1bf"
+    },
+    {
+      "id": "page-copies-3765-5154",
+      "name": "Page copies",
+      "slug": "page-copies",
+      "asset": "/icons/page-copies-3765-5154.svg",
+      "masterId": "3765:5154",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6223",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-012",
+          "name": "Page copies",
+          "category": "Interface",
+          "nodeId": "3774:6223"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "094f80acbf1f468050776de5e98a62a0cc095d6e8ec87324c806f334b71cf628"
+    },
+    {
+      "id": "park-3767-8784",
+      "name": "Park",
+      "slug": "park",
+      "asset": "/icons/park-3767-8784.svg",
+      "masterId": "3767:8784",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9085",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-016",
+          "name": "Park",
+          "category": "Extra",
+          "nodeId": "3774:9085"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "26f89cbd160f8ca4ee2939627f9cfa615631d133cb797e0df1fad6b9e7488c9b"
+    },
+    {
+      "id": "parking-barrier-3767-9210",
+      "name": "Parking barrier",
+      "slug": "parking-barrier",
+      "asset": "/icons/parking-barrier-3767-9210.svg",
+      "masterId": "3767:9210",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9251",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-043",
+          "name": "Parking barrier",
+          "category": "Extra",
+          "nodeId": "3774:9251"
+        },
+        {
+          "code": "EXTRA-045",
+          "name": "Boom barrier",
+          "category": "Extra",
+          "nodeId": "3774:9263"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "887ac6410818a51866ea8ffca03e00a9fd081814d72b275e2690b4a59f667e0f"
+    },
+    {
+      "id": "partial-selection-3766-5526",
+      "name": "Partial selection",
+      "slug": "partial-selection",
+      "asset": "/icons/partial-selection-3766-5526.svg",
+      "masterId": "3766:5526",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6572",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-069",
+          "name": "Partial selection",
+          "category": "Interface",
+          "nodeId": "3774:6572"
+        },
+        {
+          "code": "SHELL-202",
+          "name": "Confirm selection",
+          "category": "Shared",
+          "nodeId": "3774:8326"
+        },
+        {
+          "code": "SHELL-285",
+          "name": "Confirmed",
+          "category": "Shared",
+          "nodeId": "3774:8834"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a339b8c922232e9b752f84a7718df378bd662c7ce539e0cbc5d850d7e407975c"
+    },
+    {
+      "id": "personal-report-3710-1546",
+      "name": "Personal report",
+      "slug": "personal-report",
+      "asset": "/icons/personal-report-3710-1546.svg",
+      "masterId": "3710:1546",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6266",
+      "categories": [
+        "Interface",
+        "Menu",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-019",
+          "name": "Personal report",
+          "category": "Interface",
+          "nodeId": "3774:6266"
+        },
+        {
+          "code": "MENU-019",
+          "name": "Reports",
+          "category": "Menu",
+          "nodeId": "3774:6775"
+        },
+        {
+          "code": "MENU-021",
+          "name": "Reports / alternate 2",
+          "category": "Menu",
+          "nodeId": "3774:6787"
+        },
+        {
+          "code": "MENU-023",
+          "name": "Reports",
+          "category": "Menu",
+          "nodeId": "3774:6799"
+        },
+        {
+          "code": "SHELL-027",
+          "name": "Attachment file",
+          "category": "Shared",
+          "nodeId": "3774:7254"
+        },
+        {
+          "code": "SHELL-040",
+          "name": "SOS description",
+          "category": "Shared",
+          "nodeId": "3774:7333"
+        },
+        {
+          "code": "SHELL-207",
+          "name": "Display data",
+          "category": "Shared",
+          "nodeId": "3774:8356"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5aff7c383db73bf3fa800dfdff1b3dfb711a647d5f9228e3e18462a20c78adad"
+    },
+    {
+      "id": "play-store-download-3789-9353",
+      "name": "Play Store download",
+      "slug": "play-store-download",
+      "asset": "/icons/play-store-download-3789-9353.svg",
+      "masterId": "3789:9353",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7168",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-013",
+          "name": "Play Store download",
+          "category": "Shared",
+          "nodeId": "3774:7168"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7b15ca93d8fefe1175921afd8a3e2454dea7778e14f497587290084a78500392"
+    },
+    {
+      "id": "playback-3710-1922",
+      "name": "Playback",
+      "slug": "playback",
+      "asset": "/icons/playback-3710-1922.svg",
+      "masterId": "3710:1922",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6923",
+      "categories": [
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-009",
+          "name": "Playback",
+          "category": "Table headers",
+          "nodeId": "3774:6923"
+        },
+        {
+          "code": "HEADER-033",
+          "name": "Vehicle playback",
+          "category": "Table headers",
+          "nodeId": "3774:7070"
+        },
+        {
+          "code": "SHELL-175",
+          "name": "Play",
+          "category": "Shared",
+          "nodeId": "3774:8160"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "eded4e14e29ffb78f1264afa73b2e1c172cf73a09e2c01f213a8a005940f47ba"
+    },
+    {
+      "id": "point-of-interest-3766-6428",
+      "name": "Point of interest",
+      "slug": "point-of-interest",
+      "asset": "/icons/point-of-interest-3766-6428.svg",
+      "masterId": "3766:6428",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7027",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-026",
+          "name": "Point of interest",
+          "category": "Table headers",
+          "nodeId": "3774:7027"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "4a5c5d28bc28c1dc052591caa34812742926130b09a38135ff9afd5f8e607af2"
+    },
+    {
+      "id": "power-supply-3710-589",
+      "name": "Power supply",
+      "slug": "power-supply",
+      "asset": "/icons/power-supply-3710-589.svg",
+      "masterId": "3710:589",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6303",
+      "categories": [
+        "Interface",
+        "Menu",
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-025",
+          "name": "Power supply",
+          "category": "Interface",
+          "nodeId": "3774:6303"
+        },
+        {
+          "code": "UI-027",
+          "name": "Ignition",
+          "category": "Interface",
+          "nodeId": "3774:6315"
+        },
+        {
+          "code": "MENU-016",
+          "name": "Logout",
+          "category": "Menu",
+          "nodeId": "3774:6756"
+        },
+        {
+          "code": "HEADER-012",
+          "name": "Ignition status",
+          "category": "Table headers",
+          "nodeId": "3774:6941"
+        },
+        {
+          "code": "HEADER-020",
+          "name": "Power status",
+          "category": "Table headers",
+          "nodeId": "3774:6990"
+        },
+        {
+          "code": "SHELL-180",
+          "name": "Ignition on",
+          "category": "Shared",
+          "nodeId": "3774:8191"
+        },
+        {
+          "code": "SHELL-181",
+          "name": "Ignition off",
+          "category": "Shared",
+          "nodeId": "3774:8197"
+        },
+        {
+          "code": "SHELL-212",
+          "name": "Ignition disabled",
+          "category": "Shared",
+          "nodeId": "3774:8387"
+        },
+        {
+          "code": "SHELL-213",
+          "name": "Ignition enabled",
+          "category": "Shared",
+          "nodeId": "3774:8393"
+        },
+        {
+          "code": "SHELL-216",
+          "name": "Ignition unavailable",
+          "category": "Shared",
+          "nodeId": "3774:8411"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8ea41943496821a455fbc56198e0c126ab1f3f4a05336e08e87fbadc333f9ca2"
+    },
+    {
+      "id": "previous-ai-insight-3710-957",
+      "name": "Previous AI insight",
+      "slug": "previous-ai-insight",
+      "asset": "/icons/previous-ai-insight-3710-957.svg",
+      "masterId": "3710:957",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7223",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-022",
+          "name": "Previous AI insight",
+          "category": "Shared",
+          "nodeId": "3774:7223"
+        },
+        {
+          "code": "SHELL-143",
+          "name": "Panel up",
+          "category": "Shared",
+          "nodeId": "3774:7964"
+        },
+        {
+          "code": "SHELL-145",
+          "name": "Panel up alternate",
+          "category": "Shared",
+          "nodeId": "3774:7977"
+        },
+        {
+          "code": "SHELL-159",
+          "name": "Top",
+          "category": "Shared",
+          "nodeId": "3774:8062"
+        },
+        {
+          "code": "SHELL-186",
+          "name": "Arrow up",
+          "category": "Shared",
+          "nodeId": "3774:8228"
+        },
+        {
+          "code": "SHELL-295",
+          "name": "Up",
+          "category": "Shared",
+          "nodeId": "3774:8895"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "e8f526aba5d4398e597fe6d5596adedc36d6770eb56e8d16b4af242abd5b99b5"
+    },
+    {
+      "id": "previous-page-3710-937",
+      "name": "Previous page",
+      "slug": "previous-page",
+      "asset": "/icons/previous-page-3710-937.svg",
+      "masterId": "3710:937",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6229",
+      "categories": [
+        "Interface",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-013",
+          "name": "Previous page",
+          "category": "Interface",
+          "nodeId": "3774:6229"
+        },
+        {
+          "code": "SHELL-054",
+          "name": "Previous page",
+          "category": "Shared",
+          "nodeId": "3774:7419"
+        },
+        {
+          "code": "SHELL-055",
+          "name": "Previous page disabled",
+          "category": "Shared",
+          "nodeId": "3774:7425"
+        },
+        {
+          "code": "SHELL-064",
+          "name": "Previous disabled",
+          "category": "Shared",
+          "nodeId": "3774:7480"
+        },
+        {
+          "code": "SHELL-068",
+          "name": "Previous",
+          "category": "Shared",
+          "nodeId": "3774:7505"
+        },
+        {
+          "code": "SHELL-076",
+          "name": "Previous panel",
+          "category": "Shared",
+          "nodeId": "3774:7554"
+        },
+        {
+          "code": "SHELL-304",
+          "name": "Left edge",
+          "category": "Shared",
+          "nodeId": "3774:8950"
+        },
+        {
+          "code": "EXTRA-001",
+          "name": "Previous page alternate",
+          "category": "Extra",
+          "nodeId": "3774:8994"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "842c5412f06302ec769a046e632e604499185469f655e6168e9950d64ddd6fab"
+    },
+    {
+      "id": "profile-3710-2877",
+      "name": "Profile",
+      "slug": "profile",
+      "asset": "/icons/profile-3710-2877.svg",
+      "masterId": "3710:2877",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6665",
+      "categories": [
+        "Menu",
+        "Table headers",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "MENU-001",
+          "name": "Profile",
+          "category": "Menu",
+          "nodeId": "3774:6665"
+        },
+        {
+          "code": "MENU-031",
+          "name": "User outline",
+          "category": "Menu",
+          "nodeId": "3774:6848"
+        },
+        {
+          "code": "MENU-032",
+          "name": "User profile",
+          "category": "Menu",
+          "nodeId": "3774:6854"
+        },
+        {
+          "code": "MENU-033",
+          "name": "User selected",
+          "category": "Menu",
+          "nodeId": "3774:6861"
+        },
+        {
+          "code": "HEADER-019",
+          "name": "Driver name",
+          "category": "Table headers",
+          "nodeId": "3774:6984"
+        },
+        {
+          "code": "SHELL-005",
+          "name": "Account",
+          "category": "Shared",
+          "nodeId": "3774:7119"
+        },
+        {
+          "code": "SHELL-018",
+          "name": "SOS employee",
+          "category": "Shared",
+          "nodeId": "3774:7199"
+        },
+        {
+          "code": "SHELL-024",
+          "name": "Buyer",
+          "category": "Shared",
+          "nodeId": "3774:7235"
+        },
+        {
+          "code": "SHELL-099",
+          "name": "User rights",
+          "category": "Shared",
+          "nodeId": "3774:7695"
+        },
+        {
+          "code": "SHELL-109",
+          "name": "Contact person",
+          "category": "Shared",
+          "nodeId": "3774:7756"
+        },
+        {
+          "code": "SHELL-161",
+          "name": "Default user",
+          "category": "Shared",
+          "nodeId": "3774:8075"
+        },
+        {
+          "code": "SHELL-164",
+          "name": "User alternate",
+          "category": "Shared",
+          "nodeId": "3774:8093"
+        },
+        {
+          "code": "SHELL-178",
+          "name": "Driver active",
+          "category": "Shared",
+          "nodeId": "3774:8179"
+        },
+        {
+          "code": "SHELL-179",
+          "name": "Driver inactive",
+          "category": "Shared",
+          "nodeId": "3774:8185"
+        },
+        {
+          "code": "SHELL-276",
+          "name": "Reseller",
+          "category": "Shared",
+          "nodeId": "3774:8779"
+        },
+        {
+          "code": "SHELL-289",
+          "name": "Select reseller",
+          "category": "Shared",
+          "nodeId": "3774:8859"
+        },
+        {
+          "code": "SHELL-290",
+          "name": "Reseller filter",
+          "category": "Shared",
+          "nodeId": "3774:8865"
+        },
+        {
+          "code": "EXTRA-064",
+          "name": "Driver",
+          "category": "Extra",
+          "nodeId": "3774:9379"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "dbb99aa423e506d83ac1c4a4341dec6cbbc6d1e0234908fa244f299ba38cb38f"
+    },
+    {
+      "id": "prohibited-3710-2614",
+      "name": "Prohibited",
+      "slug": "prohibited",
+      "asset": "/icons/prohibited-3710-2614.svg",
+      "masterId": "3710:2614",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8583",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-244",
+          "name": "Prohibited",
+          "category": "Shared",
+          "nodeId": "3774:8583"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "bb261c68c00a575b57fa4ee1469b8ce43efe124dcab77356baf73faa7ba683fb"
+    },
+    {
+      "id": "project-brand-3789-9367",
+      "name": "Project brand",
+      "slug": "project-brand",
+      "asset": "/icons/project-brand-3789-9367.svg",
+      "masterId": "3789:9367",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7609",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-085",
+          "name": "Project brand",
+          "category": "Shared",
+          "nodeId": "3774:7609"
+        }
+      ],
+      "updated": false,
+      "recolorable": false,
+      "artwork": true,
+      "sha256": "a5fd9e46e9677c11b10c2d6e218bf0cb966defc8ba5a3a401c3b09b35968cdc8"
+    },
+    {
+      "id": "recharge-3710-391",
+      "name": "Recharge",
+      "slug": "recharge",
+      "asset": "/icons/recharge-3710-391.svg",
+      "masterId": "3710:391",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7180",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-015",
+          "name": "Recharge",
+          "category": "Shared",
+          "nodeId": "3774:7180"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "961d174cadb7ca5baf54f6ce7f57a2b46e5fbbd89120ce34e10b381121d96ec1"
+    },
+    {
+      "id": "records-per-page-3710-1767",
+      "name": "Records per page",
+      "slug": "records-per-page",
+      "asset": "/icons/records-per-page-3710-1767.svg",
+      "masterId": "3710:1767",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6211",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-010",
+          "name": "Records per page",
+          "category": "Interface",
+          "nodeId": "3774:6211"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "24a82bb5a19c3e9110605d8e38cf182136993bb66e4a3eedb57e6164935d8640"
+    },
+    {
+      "id": "refresh-3710-1175",
+      "name": "Refresh",
+      "slug": "refresh",
+      "asset": "/icons/refresh-3710-1175.svg",
+      "masterId": "3710:1175",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8473",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-226",
+          "name": "Refresh",
+          "category": "Shared",
+          "nodeId": "3774:8473"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "49c7be26c10347af286d64fa906a28999cb46b1a3f75b1ef099b9d05e63fda78"
+    },
+    {
+      "id": "reminder-3710-2448",
+      "name": "Reminder",
+      "slug": "reminder",
+      "asset": "/icons/reminder-3710-2448.svg",
+      "masterId": "3710:2448",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6309",
+      "categories": [
+        "Interface",
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-026",
+          "name": "Reminder",
+          "category": "Interface",
+          "nodeId": "3774:6309"
+        },
+        {
+          "code": "UI-080",
+          "name": "Work schedule",
+          "category": "Interface",
+          "nodeId": "3774:6639"
+        },
+        {
+          "code": "HEADER-022",
+          "name": "Last updated",
+          "category": "Table headers",
+          "nodeId": "3774:7002"
+        },
+        {
+          "code": "SHELL-017",
+          "name": "SOS date and time",
+          "category": "Shared",
+          "nodeId": "3774:7193"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "03c82efa3fa7c5b0f5f2ea27371b73c2f4839356031262d76b08591eb81b764a"
+    },
+    {
+      "id": "remove-3710-2331",
+      "name": "Remove",
+      "slug": "remove",
+      "asset": "/icons/remove-3710-2331.svg",
+      "masterId": "3710:2331",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6296",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-024",
+          "name": "Remove",
+          "category": "Interface",
+          "nodeId": "3774:6296"
+        },
+        {
+          "code": "UI-073",
+          "name": "Close",
+          "category": "Interface",
+          "nodeId": "3774:6597"
+        },
+        {
+          "code": "UI-075",
+          "name": "Close panel",
+          "category": "Interface",
+          "nodeId": "3774:6609"
+        },
+        {
+          "code": "UI-081",
+          "name": "Close dialog",
+          "category": "Interface",
+          "nodeId": "3774:6646"
+        },
+        {
+          "code": "SHELL-072",
+          "name": "Cancel popup",
+          "category": "Shared",
+          "nodeId": "3774:7529"
+        },
+        {
+          "code": "SHELL-105",
+          "name": "Close",
+          "category": "Shared",
+          "nodeId": "3774:7732"
+        },
+        {
+          "code": "SHELL-203",
+          "name": "Cancel",
+          "category": "Shared",
+          "nodeId": "3774:8332"
+        },
+        {
+          "code": "SHELL-221",
+          "name": "Remove",
+          "category": "Shared",
+          "nodeId": "3774:8442"
+        },
+        {
+          "code": "SHELL-267",
+          "name": "Cancel tracking",
+          "category": "Shared",
+          "nodeId": "3774:8724"
+        },
+        {
+          "code": "SHELL-301",
+          "name": "Close box",
+          "category": "Shared",
+          "nodeId": "3774:8932"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "1400ff6b76f19045d3def742ba297234577a3fa1f61ce27296ec25bce02da8be"
+    },
+    {
+      "id": "remove-favourite-3766-7616",
+      "name": "Remove favourite",
+      "slug": "remove-favourite",
+      "asset": "/icons/remove-favourite-3766-7616.svg",
+      "masterId": "3766:7616",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7640",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-090",
+          "name": "Remove favourite",
+          "category": "Shared",
+          "nodeId": "3774:7640"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "15cae2bcee7cbb3458c316cddca7d1260282ea69dbcaa1ecaba4cf4985bd8823"
+    },
+    {
+      "id": "repair-3710-2319",
+      "name": "Repair",
+      "slug": "repair",
+      "asset": "/icons/repair-3710-2319.svg",
+      "masterId": "3710:2319",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6431",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-046",
+          "name": "Repair",
+          "category": "Interface",
+          "nodeId": "3774:6431"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "0468fdfc5c2935e088f7cdb205c7a24a78b37297f25f0dbc26c6b7c7f248664c"
+    },
+    {
+      "id": "repeat-3767-6792",
+      "name": "Repeat",
+      "slug": "repeat",
+      "asset": "/icons/repeat-3767-6792.svg",
+      "masterId": "3767:6792",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7995",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-148",
+          "name": "Repeat",
+          "category": "Shared",
+          "nodeId": "3774:7995"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "bcbfe894374a9e07cd3a01723faf9b03c6674425953865a5baeac17b1039b188"
+    },
+    {
+      "id": "reset-3710-1189",
+      "name": "Reset",
+      "slug": "reset",
+      "asset": "/icons/reset-3710-1189.svg",
+      "masterId": "3710:1189",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6168",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-003",
+          "name": "Reset",
+          "category": "Interface",
+          "nodeId": "3774:6168"
+        },
+        {
+          "code": "SHELL-035",
+          "name": "Retry",
+          "category": "Shared",
+          "nodeId": "3774:7303"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "1b477b7cdd7cd728d882b4596db30ad3595b18df660834a095ab4fe08b9323d9"
+    },
+    {
+      "id": "save-3710-2022",
+      "name": "Save",
+      "slug": "save",
+      "asset": "/icons/save-3710-2022.svg",
+      "masterId": "3710:2022",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6162",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-002",
+          "name": "Save",
+          "category": "Interface",
+          "nodeId": "3774:6162"
+        },
+        {
+          "code": "SHELL-222",
+          "name": "Save",
+          "category": "Shared",
+          "nodeId": "3774:8448"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7b1862eb95dd04d6a042e783d8d6cc88b706e52ad44a564e5452819387bd6e0d"
+    },
+    {
+      "id": "school-3767-8865",
+      "name": "School",
+      "slug": "school",
+      "asset": "/icons/school-3767-8865.svg",
+      "masterId": "3767:8865",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9116",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-021",
+          "name": "School",
+          "category": "Extra",
+          "nodeId": "3774:9116"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "216943bdf44bcc0570858babd2a51b39f92aa6d232457c8be22937b26732f109"
+    },
+    {
+      "id": "screen-3766-7432",
+      "name": "Screen",
+      "slug": "screen",
+      "asset": "/icons/screen-3766-7432.svg",
+      "masterId": "3766:7432",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7548",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-075",
+          "name": "Screen",
+          "category": "Shared",
+          "nodeId": "3774:7548"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d80c8c1a469ec8411c2b6be7ea84f88b988290dde97217e82fdf028d554faede"
+    },
+    {
+      "id": "search-3710-2035",
+      "name": "Search",
+      "slug": "search",
+      "asset": "/icons/search-3710-2035.svg",
+      "masterId": "3710:2035",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6180",
+      "categories": [
+        "Interface",
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "UI-005",
+          "name": "Search",
+          "category": "Interface",
+          "nodeId": "3774:6180"
+        },
+        {
+          "code": "SHELL-058",
+          "name": "Search",
+          "category": "Shared",
+          "nodeId": "3774:7444"
+        },
+        {
+          "code": "SHELL-254",
+          "name": "Find",
+          "category": "Shared",
+          "nodeId": "3774:8644"
+        },
+        {
+          "code": "SHELL-291",
+          "name": "Search filter input",
+          "category": "Shared",
+          "nodeId": "3774:8871"
+        },
+        {
+          "code": "EXTRA-013",
+          "name": "Search",
+          "category": "Extra",
+          "nodeId": "3774:9067"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "35601df25677624c7fa1022d3a84df5a4b89dbca41c9140d73cfbef1efb71d14"
+    },
+    {
+      "id": "security-3710-2853",
+      "name": "Security",
+      "slug": "security",
+      "asset": "/icons/security-3710-2853.svg",
+      "masterId": "3710:2853",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9306",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-052",
+          "name": "Security",
+          "category": "Extra",
+          "nodeId": "3774:9306"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "b83ca469770428798d7e4666027e29e0f8cbf74f9871724592d5451a4e844ac1"
+    },
+    {
+      "id": "sharp-left-turn-3710-992",
+      "name": "Sharp left turn",
+      "slug": "sharp-left-turn",
+      "asset": "/icons/sharp-left-turn-3710-992.svg",
+      "masterId": "3710:992",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9312",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-053",
+          "name": "Sharp left turn",
+          "category": "Extra",
+          "nodeId": "3774:9312"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "fd16dacf1ca3b15916d12bcbd036d1d536cfbaedf13883abb54bc92b26ad4adf"
+    },
+    {
+      "id": "sharp-right-turn-3710-1006",
+      "name": "Sharp right turn",
+      "slug": "sharp-right-turn",
+      "asset": "/icons/sharp-right-turn-3710-1006.svg",
+      "masterId": "3710:1006",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9318",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-054",
+          "name": "Sharp right turn",
+          "category": "Extra",
+          "nodeId": "3774:9318"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "409868e01e7a13acf86d319b375b6aa9a350eb32b488e9c7d4efa3f70b10b2af"
+    },
+    {
+      "id": "show-map-3710-561",
+      "name": "Show map",
+      "slug": "show-map",
+      "asset": "/icons/show-map-3710-561.svg",
+      "masterId": "3710:561",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6972",
+      "categories": [
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-017",
+          "name": "Show map",
+          "category": "Table headers",
+          "nodeId": "3774:6972"
+        },
+        {
+          "code": "SHELL-192",
+          "name": "Location pin",
+          "category": "Shared",
+          "nodeId": "3774:8264"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "85350d452cabc4fe84530f8f1f2f1a836bb8d1f410e07d24c0e597afd5671655"
+    },
+    {
+      "id": "signal-jammer-3766-5379",
+      "name": "Signal jammer",
+      "slug": "signal-jammer",
+      "asset": "/icons/signal-jammer-3766-5379.svg",
+      "masterId": "3766:5379",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6511",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-059",
+          "name": "Signal jammer",
+          "category": "Interface",
+          "nodeId": "3774:6511"
+        },
+        {
+          "code": "SHELL-194",
+          "name": "Signal disconnected",
+          "category": "Shared",
+          "nodeId": "3774:8277"
+        },
+        {
+          "code": "SHELL-215",
+          "name": "GPS unavailable",
+          "category": "Shared",
+          "nodeId": "3774:8405"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "f42f6a4a46c334a4503c6a88adf7541878edf7d0440508f880f999246650005d"
+    },
+    {
+      "id": "signal-strength-3710-651",
+      "name": "Signal strength",
+      "slug": "signal-strength",
+      "asset": "/icons/signal-strength-3710-651.svg",
+      "masterId": "3710:651",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6566",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-068",
+          "name": "Signal strength",
+          "category": "Interface",
+          "nodeId": "3774:6566"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "640be145cd6d693bc4e066fc73773d89f9257c15df93a58a20e1ed3d6aed11c0"
+    },
+    {
+      "id": "sort-a-to-z-3766-5609",
+      "name": "Sort A to Z",
+      "slug": "sort-a-to-z",
+      "asset": "/icons/sort-a-to-z-3766-5609.svg",
+      "masterId": "3766:5609",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6615",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-076",
+          "name": "Sort A to Z",
+          "category": "Interface",
+          "nodeId": "3774:6615"
+        },
+        {
+          "code": "SHELL-277",
+          "name": "Sort",
+          "category": "Shared",
+          "nodeId": "3774:8785"
+        },
+        {
+          "code": "SHELL-281",
+          "name": "Advanced sort",
+          "category": "Shared",
+          "nodeId": "3774:8810"
+        },
+        {
+          "code": "SHELL-293",
+          "name": "Sort alternate",
+          "category": "Shared",
+          "nodeId": "3774:8883"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5d9c3a79365905ecabf0765dc9da256c7f38815eaf4f659ff5578260e8f95be7"
+    },
+    {
+      "id": "sos-alert-3710-2626",
+      "name": "SOS alert",
+      "slug": "sos-alert",
+      "asset": "/icons/sos-alert-3710-2626.svg",
+      "masterId": "3710:2626",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6364",
+      "categories": [
+        "Interface",
+        "Menu",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-035",
+          "name": "SOS alert",
+          "category": "Interface",
+          "nodeId": "3774:6364"
+        },
+        {
+          "code": "UI-036",
+          "name": "SOS emergency",
+          "category": "Interface",
+          "nodeId": "3774:6370"
+        },
+        {
+          "code": "UI-042",
+          "name": "Emergency support",
+          "category": "Interface",
+          "nodeId": "3774:6407"
+        },
+        {
+          "code": "UI-066",
+          "name": "SOS list",
+          "category": "Interface",
+          "nodeId": "3774:6554"
+        },
+        {
+          "code": "MENU-002",
+          "name": "Alerts",
+          "category": "Menu",
+          "nodeId": "3774:6671"
+        },
+        {
+          "code": "MENU-017",
+          "name": "Notifications",
+          "category": "Menu",
+          "nodeId": "3774:6763"
+        },
+        {
+          "code": "MENU-018",
+          "name": "Notifications active",
+          "category": "Menu",
+          "nodeId": "3774:6769"
+        },
+        {
+          "code": "SHELL-026",
+          "name": "Indoor notification",
+          "category": "Shared",
+          "nodeId": "3774:7248"
+        },
+        {
+          "code": "SHELL-042",
+          "name": "Emergency type",
+          "category": "Shared",
+          "nodeId": "3774:7346"
+        },
+        {
+          "code": "SHELL-102",
+          "name": "Notification bell",
+          "category": "Shared",
+          "nodeId": "3774:7713"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a323742503e337c574b629c113f54140d131d1b26a6c3e9b19828a927070d19a"
+    },
+    {
+      "id": "sos-comments-3710-2968",
+      "name": "SOS comments",
+      "slug": "sos-comments",
+      "asset": "/icons/sos-comments-3710-2968.svg",
+      "masterId": "3710:2968",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7321",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-038",
+          "name": "SOS comments",
+          "category": "Shared",
+          "nodeId": "3774:7321"
+        },
+        {
+          "code": "SHELL-174",
+          "name": "Comment positive",
+          "category": "Shared",
+          "nodeId": "3774:8154"
+        },
+        {
+          "code": "SHELL-183",
+          "name": "Comment urgent",
+          "category": "Shared",
+          "nodeId": "3774:8209"
+        },
+        {
+          "code": "SHELL-309",
+          "name": "Tooltip",
+          "category": "Shared",
+          "nodeId": "3774:8981"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "3e052fd1884b654ff4e49e0b26c8d44b4b588f782b07f76494dc853842691422"
+    },
+    {
+      "id": "sos-device-3710-1435",
+      "name": "SOS device",
+      "slug": "sos-device",
+      "asset": "/icons/sos-device-3710-1435.svg",
+      "masterId": "3710:1435",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7340",
+      "categories": [
+        "Shared",
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-041",
+          "name": "SOS device",
+          "category": "Shared",
+          "nodeId": "3774:7340"
+        },
+        {
+          "code": "SHELL-049",
+          "name": "Device make",
+          "category": "Shared",
+          "nodeId": "3774:7389"
+        },
+        {
+          "code": "EXTRA-063",
+          "name": "Device",
+          "category": "Extra",
+          "nodeId": "3774:9373"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a3432a4aed7345c8aa483d15b0aec836772d0d56d50d39b2f40c7f7722ab9465"
+    },
+    {
+      "id": "sos-popup-comment-3766-7199",
+      "name": "SOS popup comment",
+      "slug": "sos-popup-comment",
+      "asset": "/icons/sos-popup-comment-3766-7199.svg",
+      "masterId": "3766:7199",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7401",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-051",
+          "name": "SOS popup comment",
+          "category": "Shared",
+          "nodeId": "3774:7401"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "349ca2c2b6044a66050c1025347abeeefcca338381162ac3f0489117f2ad0aad"
+    },
+    {
+      "id": "sound-3710-3133",
+      "name": "Sound",
+      "slug": "sound",
+      "asset": "/icons/sound-3710-3133.svg",
+      "masterId": "3710:3133",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7382",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-048",
+          "name": "Sound",
+          "category": "Shared",
+          "nodeId": "3774:7382"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "8f71f5f607796ffaf1d4cec34ec7030aae433c779f984a6941fd4ab4c527eae0"
+    },
+    {
+      "id": "speed-3710-441",
+      "name": "Speed",
+      "slug": "speed",
+      "asset": "/icons/speed-3710-441.svg",
+      "masterId": "3710:441",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6358",
+      "categories": [
+        "Interface",
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "UI-034",
+          "name": "Speed",
+          "category": "Interface",
+          "nodeId": "3774:6358"
+        },
+        {
+          "code": "HEADER-006",
+          "name": "Speed",
+          "category": "Table headers",
+          "nodeId": "3774:6904"
+        },
+        {
+          "code": "HEADER-008",
+          "name": "Average speed",
+          "category": "Table headers",
+          "nodeId": "3774:6916"
+        },
+        {
+          "code": "HEADER-015",
+          "name": "Maximum speed",
+          "category": "Table headers",
+          "nodeId": "3774:6959"
+        },
+        {
+          "code": "HEADER-021",
+          "name": "Odometer",
+          "category": "Table headers",
+          "nodeId": "3774:6996"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "d9ac077034737abf88a3f302b3f281e6f790be3f953ce7504309c40dbc3a4872"
+    },
+    {
+      "id": "start-location-3710-1570",
+      "name": "Start location",
+      "slug": "start-location",
+      "asset": "/icons/start-location-3710-1570.svg",
+      "masterId": "3710:1570",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6935",
+      "categories": [
+        "Table headers"
+      ],
+      "aliases": [
+        {
+          "code": "HEADER-011",
+          "name": "Start location",
+          "category": "Table headers",
+          "nodeId": "3774:6935"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "615082092309529ccc03e880004752bb8a49b3eda38c0c6c9903d9705bbebe03"
+    },
+    {
+      "id": "support-3767-6133",
+      "name": "Support",
+      "slug": "support",
+      "asset": "/icons/support-3767-6133.svg",
+      "masterId": "3767:6133",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7689",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-098",
+          "name": "Support",
+          "category": "Shared",
+          "nodeId": "3774:7689"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "66cf32996a8618d6fb859c45cfd055a470c183feb0bca7f183076d2e8122c6c1"
+    },
+    {
+      "id": "swimming-pool-3767-8907",
+      "name": "Swimming pool",
+      "slug": "swimming-pool",
+      "asset": "/icons/swimming-pool-3767-8907.svg",
+      "masterId": "3767:8907",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9128",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-023",
+          "name": "Swimming pool",
+          "category": "Extra",
+          "nodeId": "3774:9128"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "066309d674bfe310b8391806e1d50f1f18228364a9d0d2ee440fc8d31384709c"
+    },
+    {
+      "id": "temperature-3710-711",
+      "name": "Temperature",
+      "slug": "temperature",
+      "asset": "/icons/temperature-3710-711.svg",
+      "masterId": "3710:711",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9410",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-069",
+          "name": "Temperature",
+          "category": "Extra",
+          "nodeId": "3774:9410"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "992045aedd7e5b62ae40ed605494c07557314d2c183dbea3d2294054a7dfefee"
+    },
+    {
+      "id": "temple-3767-8812",
+      "name": "Temple",
+      "slug": "temple",
+      "asset": "/icons/temple-3767-8812.svg",
+      "masterId": "3767:8812",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9098",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-018",
+          "name": "Temple",
+          "category": "Extra",
+          "nodeId": "3774:9098"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "a75b4177f3a69dbcd186cd5cc678fe3b90b7d02c3af3ce77fce6b53cfa0184cf"
+    },
+    {
+      "id": "theme-brand-trakzee-3789-9382",
+      "name": "Theme brand / Trakzee",
+      "slug": "theme-brand-trakzee",
+      "asset": "/icons/theme-brand-trakzee-3789-9382.svg",
+      "masterId": "3789:9382",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7597",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-083",
+          "name": "Theme brand / Trakzee",
+          "category": "Shared",
+          "nodeId": "3774:7597"
+        }
+      ],
+      "updated": false,
+      "recolorable": false,
+      "artwork": true,
+      "sha256": "83aac5d5f776e3f74e65b3d6eb0f32b3269226a4fc635b89113b6d7b4a4f3cff"
+    },
+    {
+      "id": "title-frame-3767-8578",
+      "name": "Title frame",
+      "slug": "title-frame",
+      "asset": "/icons/title-frame-3767-8578.svg",
+      "masterId": "3767:8578",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8975",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-308",
+          "name": "Title frame",
+          "category": "Shared",
+          "nodeId": "3774:8975"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "e3e9728055dee74f6a23001bd10cce42e2042acc1e907ac79c131565797ffb4d"
+    },
+    {
+      "id": "toggle-off-3767-7581",
+      "name": "Toggle off",
+      "slug": "toggle-off",
+      "asset": "/icons/toggle-off-3767-7581.svg",
+      "masterId": "3767:7581",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8418",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-217",
+          "name": "Toggle off",
+          "category": "Shared",
+          "nodeId": "3774:8418"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "7ae0db0344bf7a277d4609867fbaff11b7be6b5acf407d410bb0a12bae915d10"
+    },
+    {
+      "id": "toggle-on-3767-7602",
+      "name": "Toggle on",
+      "slug": "toggle-on",
+      "asset": "/icons/toggle-on-3767-7602.svg",
+      "masterId": "3767:7602",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8430",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-219",
+          "name": "Toggle on",
+          "category": "Shared",
+          "nodeId": "3774:8430"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "2a1ae275e11eead6c2ab3c1883718e9e2406b48d7374b37b11df0b15fa219c15"
+    },
+    {
+      "id": "train-3767-9142",
+      "name": "Train",
+      "slug": "train",
+      "asset": "/icons/train-3767-9142.svg",
+      "masterId": "3767:9142",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9220",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-038",
+          "name": "Train",
+          "category": "Extra",
+          "nodeId": "3774:9220"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "e3efd46bcd0c454c49252a99cd8a42de8858b58e89d5b45359be6e6ea8c4a90b"
+    },
+    {
+      "id": "tunnel-3767-9159",
+      "name": "Tunnel",
+      "slug": "tunnel",
+      "asset": "/icons/tunnel-3767-9159.svg",
+      "masterId": "3767:9159",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9226",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-039",
+          "name": "Tunnel",
+          "category": "Extra",
+          "nodeId": "3774:9226"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "18daa9ee718fd4a1706748866b0e610433e2b6c2fd8336506e0a022bfd799b8a"
+    },
+    {
+      "id": "unchecked-3710-2191",
+      "name": "Unchecked",
+      "slug": "unchecked",
+      "asset": "/icons/unchecked-3710-2191.svg",
+      "masterId": "3710:2191",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7407",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-052",
+          "name": "Unchecked",
+          "category": "Shared",
+          "nodeId": "3774:7407"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "144d55b41559e6722e01af248919c3f290cb1a84b4c2f3c7c00629760370adb5"
+    },
+    {
+      "id": "university-3767-8887",
+      "name": "University",
+      "slug": "university",
+      "asset": "/icons/university-3767-8887.svg",
+      "masterId": "3767:8887",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9122",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-022",
+          "name": "University",
+          "category": "Extra",
+          "nodeId": "3774:9122"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "94952d8d36e71dd7aee091ba344d8c6b44f9235c2cf8f16a23f38d1f137bd4c5"
+    },
+    {
+      "id": "unlock-3767-8086",
+      "name": "Unlock",
+      "slug": "unlock",
+      "asset": "/icons/unlock-3767-8086.svg",
+      "masterId": "3767:8086",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8705",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-264",
+          "name": "Unlock",
+          "category": "Shared",
+          "nodeId": "3774:8705"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "121a32ba44f015831a7407d8e69b44729779790d1ae7151b9ac6006c323583a3"
+    },
+    {
+      "id": "upload-xls-3710-2281",
+      "name": "Upload XLS",
+      "slug": "upload-xls",
+      "asset": "/icons/upload-xls-3710-2281.svg",
+      "masterId": "3710:2281",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6192",
+      "categories": [
+        "Interface",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-007",
+          "name": "Upload XLS",
+          "category": "Interface",
+          "nodeId": "3774:6192"
+        },
+        {
+          "code": "SHELL-008",
+          "name": "Upload addresses",
+          "category": "Shared",
+          "nodeId": "3774:7137"
+        },
+        {
+          "code": "SHELL-231",
+          "name": "Upload XLS",
+          "category": "Shared",
+          "nodeId": "3774:8503"
+        },
+        {
+          "code": "SHELL-240",
+          "name": "Upload expense",
+          "category": "Shared",
+          "nodeId": "3774:8558"
+        },
+        {
+          "code": "SHELL-246",
+          "name": "Upload XLS",
+          "category": "Shared",
+          "nodeId": "3774:8595"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "4a856b609ed3ec0b1a8bc2f0d68a95f93d40a8b331c6de35cd622c3264666a5f"
+    },
+    {
+      "id": "vehicle-mode-3710-334",
+      "name": "Vehicle mode",
+      "slug": "vehicle-mode",
+      "asset": "/icons/vehicle-mode-3710-334.svg",
+      "masterId": "3710:334",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6492",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-056",
+          "name": "Vehicle mode",
+          "category": "Interface",
+          "nodeId": "3774:6492"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "04a968903d82360903518914a81dd148507531e2c4b268a37a4b437986bea228"
+    },
+    {
+      "id": "vehicle-status-3710-1363",
+      "name": "Vehicle status",
+      "slug": "vehicle-status",
+      "asset": "/icons/vehicle-status-3710-1363.svg",
+      "masterId": "3710:1363",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6290",
+      "categories": [
+        "Interface",
+        "Table headers",
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "UI-023",
+          "name": "Vehicle status",
+          "category": "Interface",
+          "nodeId": "3774:6290"
+        },
+        {
+          "code": "HEADER-032",
+          "name": "No data",
+          "category": "Table headers",
+          "nodeId": "3774:7063"
+        },
+        {
+          "code": "HEADER-035",
+          "name": "Vehicle status",
+          "category": "Table headers",
+          "nodeId": "3774:7082"
+        },
+        {
+          "code": "SHELL-171",
+          "name": "Available status",
+          "category": "Shared",
+          "nodeId": "3774:8136"
+        },
+        {
+          "code": "SHELL-172",
+          "name": "Error status",
+          "category": "Shared",
+          "nodeId": "3774:8142"
+        },
+        {
+          "code": "SHELL-173",
+          "name": "Warning status",
+          "category": "Shared",
+          "nodeId": "3774:8148"
+        },
+        {
+          "code": "SHELL-176",
+          "name": "Information status",
+          "category": "Shared",
+          "nodeId": "3774:8166"
+        },
+        {
+          "code": "SHELL-191",
+          "name": "No data status",
+          "category": "Shared",
+          "nodeId": "3774:8258"
+        },
+        {
+          "code": "SHELL-200",
+          "name": "Inactive status",
+          "category": "Shared",
+          "nodeId": "3774:8313"
+        },
+        {
+          "code": "SHELL-210",
+          "name": "Running status",
+          "category": "Shared",
+          "nodeId": "3774:8375"
+        },
+        {
+          "code": "SHELL-211",
+          "name": "Idle status",
+          "category": "Shared",
+          "nodeId": "3774:8381"
+        },
+        {
+          "code": "SHELL-220",
+          "name": "Stopped status",
+          "category": "Shared",
+          "nodeId": "3774:8436"
+        },
+        {
+          "code": "SHELL-256",
+          "name": "Running indicator",
+          "category": "Shared",
+          "nodeId": "3774:8656"
+        },
+        {
+          "code": "SHELL-262",
+          "name": "Stopped indicator",
+          "category": "Shared",
+          "nodeId": "3774:8693"
+        },
+        {
+          "code": "SHELL-265",
+          "name": "Idle indicator",
+          "category": "Shared",
+          "nodeId": "3774:8712"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5b0a070d325c48204012cc6d21bcb4ec6b41fdefe8facc3e04a411d8d9573381"
+    },
+    {
+      "id": "vibration-3767-9379",
+      "name": "Vibration",
+      "slug": "vibration",
+      "asset": "/icons/vibration-3767-9379.svg",
+      "masterId": "3767:9379",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9330",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-056",
+          "name": "Vibration",
+          "category": "Extra",
+          "nodeId": "3774:9330"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ad0bff0a8cda9103c983ed129d5a4e2a744c780fdb5607a6727c19f8f2fa6c27"
+    },
+    {
+      "id": "video-camera-3710-3092",
+      "name": "Video camera",
+      "slug": "video-camera",
+      "asset": "/icons/video-camera-3710-3092.svg",
+      "masterId": "3710:3092",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-6560",
+      "categories": [
+        "Interface"
+      ],
+      "aliases": [
+        {
+          "code": "UI-067",
+          "name": "Video camera",
+          "category": "Interface",
+          "nodeId": "3774:6560"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "53839dd0f99b711569181374d6e8e14711024300f472f47a1f2d3d7fd690c6a9"
+    },
+    {
+      "id": "view-table-3710-2691",
+      "name": "View table",
+      "slug": "view-table",
+      "asset": "/icons/view-table-3710-2691.svg",
+      "masterId": "3710:2691",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8908",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-297",
+          "name": "View table",
+          "category": "Shared",
+          "nodeId": "3774:8908"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ddf3dc3378063224963df762577b1b07e326fb93d8c7f6ce1e0782ec39249dc1"
+    },
+    {
+      "id": "vms-brand-3767-6976",
+      "name": "VMS brand",
+      "slug": "vms-brand",
+      "asset": "/icons/vms-brand-3767-6976.svg",
+      "masterId": "3767:6976",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8099",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-165",
+          "name": "VMS brand",
+          "category": "Shared",
+          "nodeId": "3774:8099"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "9f524a31a691a864ca943d726d74adad4b62205de9a36a8588a9532b43d41504"
+    },
+    {
+      "id": "waterfall-3767-8769",
+      "name": "Waterfall",
+      "slug": "waterfall",
+      "asset": "/icons/waterfall-3767-8769.svg",
+      "masterId": "3767:8769",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-9079",
+      "categories": [
+        "Extra"
+      ],
+      "aliases": [
+        {
+          "code": "EXTRA-015",
+          "name": "Waterfall",
+          "category": "Extra",
+          "nodeId": "3774:9079"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "2b55b3cc4052fc25fa92ef96116553305c22b054b0c9a39b33297f1d26559e7c"
+    },
+    {
+      "id": "whatsapp-contact-3789-9356",
+      "name": "WhatsApp contact",
+      "slug": "whatsapp-contact",
+      "asset": "/icons/whatsapp-contact-3789-9356.svg",
+      "masterId": "3789:9356",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8105",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-166",
+          "name": "WhatsApp contact",
+          "category": "Shared",
+          "nodeId": "3774:8105"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "91bb387ee9704ca86c04c7ca5f4751873c6853c59732be40efc4373824252a2e"
+    },
+    {
+      "id": "white-separator-3767-6107",
+      "name": "White separator",
+      "slug": "white-separator",
+      "asset": "/icons/white-separator-3767-6107.svg",
+      "masterId": "3767:6107",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7676",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-096",
+          "name": "White separator",
+          "category": "Shared",
+          "nodeId": "3774:7676"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "bc2b90883a3efbace1b0d949f6e41600d3b6635bacf250eb8b7df1cef981f0ce"
+    },
+    {
+      "id": "woodword-brand-3766-7531",
+      "name": "Woodword brand",
+      "slug": "woodword-brand",
+      "asset": "/icons/woodword-brand-3766-7531.svg",
+      "masterId": "3766:7531",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8111",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-167",
+          "name": "Woodword brand",
+          "category": "Shared",
+          "nodeId": "3774:8111"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "5e07e8a23f49929d8d71c0715b6f32f26d1ed62b19340938f552567c17a63dd1"
+    },
+    {
+      "id": "zio-brand-3767-7024",
+      "name": "Zio brand",
+      "slug": "zio-brand",
+      "asset": "/icons/zio-brand-3767-7024.svg",
+      "masterId": "3767:7024",
+      "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-8124",
+      "categories": [
+        "Shared"
+      ],
+      "aliases": [
+        {
+          "code": "SHELL-169",
+          "name": "Zio brand",
+          "category": "Shared",
+          "nodeId": "3774:8124"
+        }
+      ],
+      "updated": false,
+      "recolorable": true,
+      "artwork": false,
+      "sha256": "ea1f731895192d0e1e1c98cbcb0d4a6087569a79e193a6a04e94be29992e7e25"
+    }
+  ]
+}

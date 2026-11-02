@@ -1,0 +1,2 @@
+export type IconEntry = {id:string;name:string;slug:string;asset:string;masterId:string;figmaUrl:string;categories:string[];aliases:{code:string;name:string;category:string;nodeId:string}[];updated:boolean;recolorable:boolean;artwork:boolean;sha256:string};
+export type CatalogueMeta = {exportedAt:string;sourceEntries:number;publishedEntries:number;uniqueIcons:number;excludedRedCards:number;sourceArtwork:number;categories:string[]};
