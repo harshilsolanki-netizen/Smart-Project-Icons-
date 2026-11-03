@@ -2,6 +2,7 @@ import {timingSafeEqual} from 'node:crypto';
 import {z} from 'zod';
 import catalogue from '@/data/catalogue.json';
 import snapshot from '@/data/figma-snapshot.json';
+import corrections from '@/data/icon-corrections.json';
 import {specToSvg} from '@/lib/generator';
 import {generationStatus,generateIconSpec,generationError} from '@/lib/direct-ai';
 export const maxDuration=60;
@@ -19,7 +20,7 @@ export async function POST(req:Request){
  try{
   const words=input.prompt.toLowerCase().match(/[a-z]{3,}/g)||[];
   const references=catalogue.icons.filter(i=>i.updated&&i.recolorable).map(icon=>({icon,score:words.filter(w=>icon.aliases.some(a=>a.name.toLowerCase().includes(w))).length})).sort((a,b)=>b.score-a.score).slice(0,3);
-  const examples=references.map(({icon})=>({name:icon.name,svg:snapshot.masters.find(m=>m.id===icon.masterId)?.svg||''}));
+  const examples=references.map(({icon})=>({name:icon.name,svg:corrections.corrections.find(c=>c.masterId===icon.masterId)?.svg||snapshot.masters.find(m=>m.id===icon.masterId)?.svg||''}));
   const result=await generateIconSpec({...input,examples},process.env);
   return Response.json({label:result.spec.label,description:result.spec.description,svg:specToSvg(result.spec),provider:result.provider,model:result.model,status:'draft'},{headers:{'Cache-Control':'no-store'}});
  }catch(error){const failure=generationError(error);return Response.json({error:failure.error},{status:failure.status});}

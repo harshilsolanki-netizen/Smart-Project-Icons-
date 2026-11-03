@@ -64,7 +64,11 @@ https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3798-23
 
 All aliases and category memberships remain searchable. Deduplication is based on Figma master identity, not visual approximation. `data/figma-snapshot.json` keeps the source row/master mapping; `data/catalogue.json` records file hashes and all labels. `public/catalogue.json` is the downloadable manifest. No original source SVG geometry is modified on import. Color changes and variant composition happen only on requested download/preview copies.
 
-Figma does not sync automatically. To update the library, export the changed approved masters, update the catalogue, snapshot and public SVG together, then commit and push. `npm test` verifies source hashes and alias coverage. Never replace specific semantic symbols with generic glyphs just to match labels.
+Figma does not sync automatically. To update the library, export the changed approved masters, update the catalogue, snapshot and public SVG together, then commit and push. `npm test` verifies asset hashes and alias coverage. Never replace specific semantic symbols with generic glyphs just to match labels.
+
+### Approved website corrections
+
+On 3 November 2026, Chart settings was replaced with the user-approved corrected SVG, using a balanced gear and clear chart bars in the same 24px/1.8px rounded outline family. Its label, categories and Figma links remain unchanged. The SVG has a versioned asset URL so existing browser caches do not retain the old icon. `data/icon-corrections.json` records the approved override and is used by generation references. The original Figma snapshot is preserved; this correction has not yet been applied in Figma because of the Figma MCP plan limit. All other assets remain exact source exports.
 
 ## Validation
 

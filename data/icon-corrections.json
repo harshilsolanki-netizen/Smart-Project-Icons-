@@ -1,0 +1,17 @@
+{
+  "corrections": [
+    {
+      "id": "chart-settings-3808-12649",
+      "masterId": "3808:12649",
+      "label": "Chart settings",
+      "asset": "/icons/chart-settings-3808-12649-v2.svg",
+      "sha256": "98c6b2b7d994329268d44abf85b7ed2fdccd3d4720b8aaebeefbb01802810126",
+      "originalSha256": "4cd1ebcaf8dbf950b8a6389eac4698f9da4b4d3bf246f8ec7199f0e1f6b86622",
+      "date": "2026-11-03",
+      "reason": "User-requested Chart settings correction: balanced gear and clear chart bars.",
+      "figmaApplied": false,
+      "figmaTarget": "https://www.figma.com/design/O5LHJlUlWLJ7KK0zDAAn1d/New-Trakzee-2.0--2026-?node-id=1934-13569",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#18272F\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 3v17h6M7 15v-5m4 1V6m4 1V3\"/><path d=\"M20.38 15.05 L21.93 15.68 L21.93 18.32 L20.38 18.95 L20.61 20.61 L18.32 21.93 L17.00 20.90 L15.68 21.93 L13.39 20.61 L13.62 18.95 L12.07 18.32 L12.07 15.68 L13.62 15.05 L13.39 13.39 L15.68 12.07 L17.00 13.10 L18.32 12.07 L20.61 13.39 L20.38 15.05Z\"/><circle cx=\"17\" cy=\"17\" r=\"1.7\"/></svg>\n"
+    }
+  ]
+}

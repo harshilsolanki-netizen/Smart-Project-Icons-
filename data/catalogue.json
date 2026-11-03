@@ -67,7 +67,7 @@
       "id": "chart-settings-3808-12649",
       "name": "Chart settings",
       "slug": "chart-settings",
-      "asset": "/icons/chart-settings-3808-12649.svg",
+      "asset": "/icons/chart-settings-3808-12649-v2.svg",
       "masterId": "3808:12649",
       "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7107",
       "categories": [
@@ -84,7 +84,7 @@
       "updated": true,
       "recolorable": true,
       "artwork": false,
-      "sha256": "4cd1ebcaf8dbf950b8a6389eac4698f9da4b4d3bf246f8ec7199f0e1f6b86622"
+      "sha256": "98c6b2b7d994329268d44abf85b7ed2fdccd3d4720b8aaebeefbb01802810126"
     },
     {
       "id": "cloud-download-3808-12726",
