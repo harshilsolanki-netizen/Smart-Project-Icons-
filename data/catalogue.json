@@ -6067,7 +6067,7 @@
       "id": "support-3767-6133",
       "name": "Support",
       "slug": "support",
-      "asset": "/icons/support-3767-6133.svg",
+      "asset": "/icons/support-3767-6133-v2.svg",
       "masterId": "3767:6133",
       "figmaUrl": "https://www.figma.com/design/AJqT5iFTCBAsqPRtj0zmL2/Creative-ADS?node-id=3774-7689",
       "categories": [
@@ -6081,10 +6081,10 @@
           "nodeId": "3774:7689"
         }
       ],
-      "updated": false,
+      "updated": true,
       "recolorable": true,
       "artwork": false,
-      "sha256": "66cf32996a8618d6fb859c45cfd055a470c183feb0bca7f183076d2e8122c6c1"
+      "sha256": "7de71ea8577a2439a2ab8b1165deec130dc45ecd06ae25173613996a3a9c7e50"
     },
     {
       "id": "swimming-pool-3767-8907",
