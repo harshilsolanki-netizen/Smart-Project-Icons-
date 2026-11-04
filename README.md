@@ -68,7 +68,7 @@ Figma does not sync automatically. To update the library, export the changed app
 
 ### Approved website corrections
 
-On 3 November 2026, Chart settings was replaced with the user-approved corrected SVG, using a balanced gear and clear chart bars in the same 24px/1.8px rounded outline family. On 4 November 2026, Support was replaced with a headset surrounding a three-dot chat bubble and a microphone, following the user's supplied reference in the same outline family. Labels, categories and original Figma links remain unchanged. Both SVGs have versioned asset URLs so existing browser caches do not retain the old icons. `data/icon-corrections.json` records these overrides and is used by generation references. The original Figma snapshot is preserved; these website corrections have not been applied in Figma. All other assets remain exact source exports.
+On 3 November 2026, Chart settings was replaced with the user-approved corrected SVG, using a balanced gear and clear chart bars in the same 24px/1.8px rounded outline family. On 4 November 2026, Support was replaced with a solid headset surrounding a circular three-dot speech bubble, with a solid microphone, following the user's supplied reference. The user rejected the earlier outline interpretation; the reference's solid geometry takes precedence for Support. Labels, categories and original Figma links remain unchanged. Both SVGs have versioned asset URLs so existing browser caches do not retain the old icons. `data/icon-corrections.json` records these overrides and is used by generation references. The original Figma snapshot is preserved; these website corrections have not been applied in Figma. All other assets remain exact source exports.
 
 ## Validation
 
